@@ -1,0 +1,10 @@
+[
+	{
+		"name":"email",
+		"type":"string"	
+	},
+	{
+		"name":"favorites",
+		"type":"string"	
+	}	
+]

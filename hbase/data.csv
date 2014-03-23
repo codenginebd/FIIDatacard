@@ -1,0 +1,1001 @@
+id,email,first_name,last_name,title,address1,address2,city,state,zip,country,phone1,phone2,birth_year,hs_grad_year,highest_education_level,us_citizen,military_affiliation,best_time_to_call,is_valid_email,date_added,date_updated
+1,mmargolis89@aol.com,michelle,margolis,null,5104 Griffiths Court,null,Antioch,CA,94531,US,9257789597,null,null,2008,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,12/5/2012 18:07
+2,jaxvette@yahoo.com,Jackie,Hicks,null,3993 Miller Drive,null,Newton,NC,28658,US,7044621836,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+3,madix2007@hotmail.com,yassine,riad,null,333 EAST EAGLE STREET,null,East Boston,MA,2128,US,8576546514,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+4,spong606_patrick31@yahoo.com,gaberiele,collins,null,po box 293,null,Mount Gilead,NC,27306,US,9102208619,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+5,cjohnson@skillingsandsons.com,CHRIS,JOHNSON,null,null,null,Hollis,NH,3049,US,6034653500,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+6,lisinskis5@aol.com,brandon,lisinski,null,2805 highland ridge rd,null,Cumming,GA,30041,US,7708445775,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+7,focused_singer@hotmail.com,Tierra,Salang,null,706 Fawn Lake Drive,null,Newport News,VA,23608,US,7572346599,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+8,tanishaapri@yahoo.com,tanisha,Dailey,Mr.,910 66th Ave,null,Oakland,CA,94601,US,5107124543,null,null,2003,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,12/5/2012 12:29
+9,knowlesmatthew84@yahoo.com,Alex,Pugh,null,225 Lincoln St,null,Marseilles,IL,61341,US,8157952449,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+10,byudancergirl@msn.com,Elizabeth,Johnson,null,547 Bay Green Drive,null,Arnold,MD,21012,US,4102793420,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+11,liteskin032002@yahoo.com,carolyn,lee,null,39 ST JOSEPH RD,null,Pine Grove,LA,70453,US,2252769447,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+12,mictopbbz@yahoo.com,Mike,Gilliam,null,6121 Moorefield Rd.,null,Catonsville,MD,21228,US,4109259078,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+13,swcp475@aol.cm,Grace,Hernandez,null,4406 W. 17th Street,null,Yuma,AZ,85364,US,9282764376,null,null,1987,null,TRUE,FALSE,null,FALSE,8/3/2010 10:28,7/24/2012 10:08
+14,trafordd@yahoo.com,Traford/Joe,Daniels,null,322 Nancy Ross Dr,null,Eufaula,AL,36027,US,3346878188,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+15,wolfpilot2004@yahoo.com,Wolfgang,Siqueiros,null,10200 Suez Dr,null,Beverly Hills,CA,90210,US,9155909043,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+16,mike2much83@yahoo.com,michael,wright,null,810 bay blossom ave,null,Sumter,SC,29150,US,8046059390,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+17,dulcelopez21@hotmail.com,Dulce,Rios,null,127 Ruela Dr,null,Eagle Pass,TX,78852,US,9526888260,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+18,dubbeld060670@hotmail.com,Dina,Glotzer,null,7516 Laramie,null,Skokie,IL,60077,US,8476790364,8473723548,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+19,renesharonbranche@hotmail.com,Rene,Branche,null,8195 Village Road,null,Severn,MD,21144,US,4105512594,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+20,michelleleelewis2@yahoo.com,michelle lee,lewis,null,2015 north parham rd,null,Richmond,VA,23229,US,4349969906,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+21,aitotupua@yahoo.com,aito,tupua,null,7000 La Praixst apt28,null,Highland,CA,92346,US,2563398631,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+22,jazz9152@hotmail.com,jasmine,hasi,null,1180 welch road #834,null,Palo Alto,CA,94304,US,6507253655,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+23,bradleyvandervort@yahoo.com,Bradley,Vandervort,null,3407 w. Michigan ave.,null,Phoenix,AZ,85053,US,6024413154,6232410267,null,1981,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+24,caseykirby2@aol.com,Casey,Kirby,null,803 Canton Ave.,null,Wills Point,TX,75169,US,9038738227,9032585449,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+25,blessm22@yahoo.com,Ortensia,Hudson,null,5521 w.Crystal,null,Chicago,IL,60651,US,7736262675,7733928122,1900,1984,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/15/2011 1:48
+26,angelchic2011@yahoo.com,Kristin,Brey,null,13404 70th street,null,Oskaloosa,KS,66066,US,7856406927,7858633095,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+27,GCONKLIN2@COX.NET,carrie,conklin,null,28425 N. 50TH PLC.,null,Cave Creek,AZ,85331,US,4802324799,4805639560,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+28,p_alberto57@hotmail.com,Adalberto,Perez,null,4122s 465e #51,null,Slc,UT,84107,US,8015980994,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+29,sonialoera_16@yahoo.com,sonia,loera,null,515 n colonia de los cedros,null,Los Angeles,CA,90022,US,3236177607,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+30,juana0904@yahoo.com,Juana,Perez,null,P.O. Box 1608,null,Glen Rose,TX,76043,US,4062605656,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+31,muna_911@hotmail.com,Muna,Ismail,null,1616 mooret C,null,Louisville,KY,40210,US,5022903973,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+32,jennam23@hotmail.com,Jenna,Morrison,null,543 Animas View Dr. #26,null,Durango,CO,81301,US,9707592027,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+33,mommydemitri@yahoo.com,Nicholle,Hibler,null,1024 McKinley St Apt A,null,Benbrook,TX,76126,US,8173339497,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+34,zetina55@embarqmail.com,Alma,Zetina,null,1506 Pondview Ct,null,Cologne,MN,55322,US,9524662479,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+35,plmr444@aol.com,Rebecca,Palmer,null,1822 Shetland rd,null,Naperville,IL,60565,US,6306311843,6303283447,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+36,griffinrobert81@yahoo.com,shaqulia,burley,null,178 moury ave apt 4007,null,Atlanta,GA,30315,US,6788766466,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+37,veronica@nustar.us,veronica,jimenez,null,18644 maple leaf dr,null,Eden Prairie,MN,55346,US,9529344095,6122216297,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+38,cprichardson50@gmail.com,Charlotte,Richardson,null,4513 Griffin Street,null,Moss Point,MS,39563,US,2284742709,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+39,charissa_wing@yahoo.com,charissa,wing,null,120 stevens st,null,North Brunswick,NJ,8902,US,7329793431,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+40,jessicashrd@yahoo.com,Jessica,Sheard,null,2011 Rile St,null,Memphis,TN,38109,US,9017747987,null,1976,1994,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,12/15/2011 11:35
+41,jamesmele34@yahoo.com,James,Mele,null,128 S.W. 5th Street,null,Moore,OK,73160,US,6308024943,null,null,1972,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+42,NSTEPNEY@YAHOO.COM,NICOLE,STEPNEY,null,404 BELCHER DR,null,Midfield,AL,35228,US,2059199771,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+43,denise2009michelle@yahoo.com,Michelle,Brown,null,303 Rodger Brawner Ave.,null,Manchester,GA,31816,US,7068465030,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+44,zoraruthann@aol.com,Breanna,Jones,null,1143 North Stricker St,null,Baltimore,MD,21207,US,4106649520,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+45,mkirby56@yahoo.com,Mary,Kirby,null,102 Ballard St,null,Brewton,AL,36426,US,2518673405,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+46,dave-and-sue@earthlink.net,David,Gonzales,null,80876 Brown Ave,null,Indio,CA,92201,US,7603422665,null,null,1965,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+47,reyndic@yahoo.com,Reyndi,Clark,Mr.,111 Woodlands Dr.,null,Smyrna,GA,30080,US,5044536738,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,10/19/2011 9:50
+48,CALVIN50154137751@fixmyemail.com,CALVIN,HEGWOOD,null,2801 S BATTERY ST,null,Little Rock,AR,72206,US,5015413775,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+49,mns3@charter.net,marnie,reilly,null,73 strong rd,null,Newnan,GA,30263,US,6156135884,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+50,emmy_united7@live.com,Emmanuel,Salazar,null,5050 south 86st apt 11,null,Omaha,NE,68127,US,4027638932,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+51,vcarroll@student.umass.edu,Victoria,Carroll,null,14 wyoming ave,null,North Reading,MA,1864,US,9788215477,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+52,a.pinedaedgar@yahoo.com,edgar,pineda,null,91 chesnut st.,null,Chelsea,MA,2150,US,7812153600,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+53,lil_momma_19842002@yahoo.com,Tina,Carriere,null,3812 James St,null,New Iberia,LA,70560,US,3373646558,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+54,jonatuto@yahoo.com,jonathan,kubicek,null,2448 medford rd,null,Atco,NJ,8004,US,6098646797,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+55,NOEMEDINATX1@fixmyemail.com,NOE,MEDINA,null,222 E HOUSTON #800,null,San Antonio,TX,78205,US,2107779711,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+56,Ragendra278@aol.com,Ragendra,Nal,null,196 North 15th Street,null,Bloomfield,NJ,7003,US,8625964661,8623072920,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+57,westhemingway@yahoo.com,Michael,Hemingway,null,2647 Neighborhood walk,null,Villa Rica,GA,30180,US,7708410852,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+58,luhammond@comcast.net,Luanne,Hammond,null,34 south keridan  apt 2104,null,Muskegon,MI,49442,US,2314574869,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+59,heath061679@yahoo.com,heather,waite,null,11250 mallard crossing drive,null,Charlotte,NC,28262,US,7328906860,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+60,ddarceneau@albanytel.com,Diane,Arceneau,null,29454 263rd Ave.,null,Albany,MN,null,null,3202496230,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+61,laquannafisher@yahoo.com,Laquanna,Fisher,null,3342 Griffith Street,null,Charlotte,NC,28203,US,7046067234,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+62,Mark_camacho@yahoo.com,Mark,Camacho,null,6111 Pine Cove,null,Houston,TX,77092,US,7136901716,8323295172,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+63,jthm30188@gmail.com,mari,keri,null,402 southfork tr,null,Woodstock,GA,30189,US,7707131074,null,null,2006,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,11/30/2012 2:26
+64,capn_fitch@yahoo.com,jackie,Fitch,null,504 Underwood Rd,null,Jefferson,GA,30549,US,4042455710,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+65,family_is_life@yahoo.com,Annamarie,Farrell,null,16090 Sunnyfield Ave,null,Caldwell,ID,83607,US,5416637207,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+66,RONALD8434990151,RONALD,YEARNS,null,137 PAWLEY DR,null,Summerville,SC,29483,US,8434990151,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+67,jenybarra2002@yahoo.com,Jennifer,McCurdy,null,PO BOX 2546,null,Elsa,TX,78543,US,9562554102,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+68,northw3839@yahoo.com,Park,Gusky,null,11051 Moonlit Park,null,San Antonio,TX,78249,US,4029662056,null,null,1975,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+69,susana_salas32@hotmail.com,susana,salas,null,6702 tutor dr,null,Corpus Christi,TX,78414,US,3614464765,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+70,bigpop1@msn.com,Kevin,Cooper,null,443 Fowlkes St,null,Wendell,NC,27591,US,9193655190,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+71,mafuasarah@yahoo.com,Sarah,Mafua,null,7303 177th St E,null,Puyallup,WA,98375,US,2533204486,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+72,amberdon710@yahoo.com,amber,tonnites,null,2824 south west indain trail,null,Topeka,KS,66614,US,7853831492,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+73,rodney42008@gmail.com,Patty,Hickson,null,5990 mallory rd,null,College Park,GA,30349,US,6787894705,6787994570,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+74,assgj@uaa.alaska.edu,Sasha,Johnson,null,c/o 8349 Seacliff St,null,Anchorage,AK,99501,US,9077448300,9077640196,1964,1983,1,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/15/2011 15:32
+75,brocmcbride2287@yahoo.com,Broderick,McBride,null,100 rutledge drive,null,Lodi,CA,95242,US,9168682016,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+76,stacie85@ymail.com,Stacie,Gougler,null,21 St Charles Place,null,Midlothian,TX,76065,US,2142403102,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+77,t_fryeyes@yahoo.com,Tiffani,leadbetter,null,1411 Curdes Ave,null,Fort Wayne,IN,46805,US,2604528570,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+78,dorianepissonnier@rocketmail.com,doriane,pissonnier,null,12204 waterton parke circle,null,Austin,TX,78726,US,5125061041,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+79,jlive23087@aol.com,Julio,Live,null,3610 Crestmoor Dr,null,San Bruno,CA,94066,US,6505898920,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+80,tanyads1@netzero.net,Todd,Sparks,null,369 Ashworth ln,null,Danville,VA,24540,US,4348351315,null,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+81,metaller5223@yahoo.com,Nick,Schlegel,null,123 Pipers Dr,null,Bartlett,IL,60103,US,6302413117,null,null,1985,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+82,sketchvanruden@yahoo.com,Benjamin,Van Ruden,null,1500 S Ranch Rd Apt 18,null,New Berlin,WI,53151,US,4147081618,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+83,roberto1tovar2@yahoo.com,Roberto,Garcia,null,5300 De Soto St Apt 209,null,Houston,TX,77091,US,7139571008,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+84,robertbrooks264@hotmail.com,Varnessa,Brooks,null,1200 Chillum Rd,null,Hyattsville,MD,20782,US,3015591883,3015599084,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+85,wahappenmon@yahoo.com,christopher,thompson,null,2463 E. Holmes,null,Mesa,AZ,85204,US,4802642756,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+86,williebubba252070@yahoo.com,william,maupin,null,301 Nw 80th,null,Oklahoma City,OK,73114,US,4055958135,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+87,chelseakoby@yahoo.com,Chelsea,Koby,null,346 Maple RD,null,Thomaston,GA,30286,US,7066460073,6787936003,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+88,msmith1726@aol.com,Margaret,Widmayer,null,9100 moultrie pky Potomac md,null,Potomac,MD,20854,US,3018022835,null,1900,2009,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,11/24/2012 19:01
+89,karenmariebarkerr@yahoo.com,Karenmarie,Barker,null,12800 Spencer Road,null,Milford,MI,48380,US,2489215441,null,null,1970,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+90,armstrongpky07@yahoo.com,Patricia,Yazzie,null,12021 Skline Rd. NE 8712324,null,Albuquerque,NM,87123,US,5053231450,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+91,ncchick27801@yahoo.com,Tanisha,Alston,null,1137 gold rock rd,null,Rocky Mount,NC,27804,US,2522102526,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+92,sunshine_sandi2001@yahoo.com,Sandra,Carr,null,2456 Veneto Lane,null,Tracy,CA,95377,US,2098300063,2098325351,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+93,leemo1991@yahoo.com,Shelia,Moser,null,2010 E 30th St,null,Baltimore,MD,21218,US,4103660573,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+94,precioustee05@yahoo.com,Kunthy,Douk,null,227 Roger Williams Ave,null,Providence,RI,2907,US,4014610583,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+95,NLANDAGARDNER@YAHOO.COM,NORKIESHA,LAND,null,1221 E JACKSON STREET,null,Springfield,IL,62703,US,2175026251,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+96,leonjonas@ymail.com,Leon,Jonas Jr.,null,1387 Ridge Commons Blvd,null,Hanover,MD,21076,US,4106949751,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+97,janella@blackplanet.com,janella,scott,null,208 bethel st,null,Kingstree,SC,29556,US,8433822991,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+98,felix.loera@yahoo.com,felix,loera,null,741 e johnston ave,null,Hemet,CA,92543,US,9516928173,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+99,dillansnw@aol.com,TAMMY,SNOW,null,1271 east center street,null,Spanish Fork,UT,84660,US,8016875069,null,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+100,thaddeusbolek@sbcglobal.net,Kellie,Bolek,null,W208 S8481 Hillendale Dr.,null,Muskego,WI,53150,US,2629711714,null,null,2011,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+101,samuelcavrell@yahoo.com,Samuel,Cavrell,null,1020 N 85th Pl,null,Scottsdale,AZ,85257,US,4802170163,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+102,margiebluitt@hotmail.com,margie,bluitt,null,4208 fm rd 3096,null,Kerens,TX,75144,US,2147734800,9033967504,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+103,rvdgrl16@aol.com,Leann,Boshaw,null,1634 Ellen Pl.,null,Belton,TX,76513,US,2549394485,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+104,pb8281@aim.com,patrick,burns,null,20 old orchard drive,null,Weston,CT,6883,US,2032465484,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+105,carolien_29@hotmail.com,diana,martinez,null,26 blossom st,null,Worcester,MA,1609,US,5087570562,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+106,goodguy196445@yahoo.com,Greg,Williams,null,116 north main street apt4,null,Drexel,NC,28619,US,8283910589,null,null,1981,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+107,sweet4u1110@aol.com,Preston,Mays,null,583 Villa Crest Ave,null,Macon,GA,31206,US,4787817032,4787814124,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+108,wheels3331@aol.com,Linda,Norcross,null,378 School St.,null,Watertown,MA,2472,US,6177448883,6177338981,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+109,sylviadunson@hotmail.com,sylvia,dunson,null,1000 n lasalle,null,Chicago,IL,60610,US,3126423613,3126073613,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+110,hps@bvunet.net,Reece,Hill,null,322 Park Street,null,Bristol,VA,24201,US,2764669690,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+111,acnoble134@yahoo.com,Ashley,Noble,null,PO Box 368,null,Jackson,KY,41339,US,6066667995,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+112,momsgigi@yahoo.com,Gina,Costanzo,null,1530 Kinser Rd,null,Ceres,CA,95307,US,2095964291,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+113,ogmelody@hotmail.com,Orlando,Gomez,null,1209 W 8th St. Apt,null,Los Angeles,CA,90017,US,2139856795,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+114,davidstitts@ymail.com,David,Stitts,null,3717 Binita dr,null,Plano,TX,75025,US,9727121618,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+115,LeroyMckinley@yahoo.com,Leroy,Mckinley,null,1116 East 81st PL,null,Chicago,IL,60619,US,7736797329,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+116,amber_orban@yahoo.com,Amber,Orban,null,784 Calla Ave. Apt. G,null,Imperial Beach,CA,91932,US,5624568974,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+117,brit2daney@yahoo.com,Brittany,Baldo,null,49 Chester Lee RD,null,Poplarville,MS,39470,US,6017959305,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+118,hawke429@gmail.com,Lisa,Coffey,null,3910 N main Stf,Lot 60,High Point,NC,27265,US,3369057579,7658383149,1968,1986,99,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/16/2011 7:16
+119,ian90815@yahoo.com,Ian,Stancil,null,1645 Clark Ave Unit 218,null,Long Beach,CA,90815,US,5629853043,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+120,hawkeystix@yahoo.com,Katy,Cox,null,16035 NW Schendel  Apt H,null,Beaverton,OR,97006,US,5035445616,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+121,hellokittyd0904@aol.com,Desiree,Slater,null,9622 S. Troy Avenue,null,Evergreen Park,IL,60805,US,7085293296,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+122,xokutecowgurlxo@aim.com,Nicole,Mason,null,110 Poppyfield Ct,null,Katy,TX,77450,US,2816936430,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+123,nenuska_hg@hotmail.com,Marta,Lozano,null,189 E200N UT,null,null,null,84321,US,4357722946,null,null,2001,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/17/2011 22:15
+124,rojas@aol.com,Lauren,Ovalle,null,4900 Plaza Dr.,null,Montgomery,AL,36116,US,3343916774,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+125,ruth@adresultsinc.com,ruth,lindley,null,16915 Bridle Oak Dr,null,Cypress,TX,77433,US,2812133352,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+126,leeleesand@aol.com,celetrius,hughes,null,1545 ozier drive,null,Tuscaloosa,AL,35405,US,2053661988,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+127,thurmankkaw@aol.com,Kim,Thurman,null,137 Robin Road,null,Lumberton,NC,28358,US,9107381254,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+128,kovachpeter1@gmail.com,Luchin,Deborah,null,6333 Bonsallo Ave,null,Los Angeles,CA,90044,US,3237533294,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+129,johnmata51@yahoo.com,John,Mata,null,703 Baretta Ct,null,Laredo,TX,78043,US,9567716763,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+130,wildfire729@yahoo.com,Angela,Tenenbaum,null,5355 hunter tr,null,Atlanta,GA,30317,US,4235082325,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+131,vanesaguzman@ymail.com,Guadalupe,Guzman,null,7814 atlantic ave # 12,null,Bell,CA,90201,US,3235592372,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+132,Katrina.M.Schmitz@gmail.com,Katrina,Schmitz,null,Po Box 1224,null,Ridgefield,WA,98642,US,3606098766,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+133,livinginthenewlight@yahoo.com,Daniel,Maxey,null,418 sw 18th st,null,Carson City,NV,89701,US,5412159371,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+134,bplsuckit@yahoo.com,Benj,Palmer,null,1902 Evergreen Ave,null,Fullerton,CA,92835,US,7143487593,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+135,romi79@verizon.net,ROMELIA,VERA,null,1750 BELLA TERRA DR.,null,Manteca,CA,95337,US,2098248018,2094567131,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+136,MICHELLESNOWIN1@fixmyemail.com,MICHELLE,SNOW,null,1018 OHIO ST,null,La Porte,IN,46350,US,2193240295,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+137,CYNTHIAJOHNSON@hotmail.com,MARK,WEBER,null,po Box 32,null,North Lake,WI,53064,US,5029282850,null,null,1974,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+138,mmad3203@comcast.net,Michael,Dorsey,null,5462 Harpers Farm Road Apt. A1,null,Columbia,MD,21045,US,4438645641,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+139,thirdeyeaware@gmail.com,Todd,Gilpin,null,207 Radford Place,null,Knoxville,TN,37917,US,8652092252,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+140,stephenivo@yahoo.com,Stephanie,Gumienny,null,3816 Honeysuckle Dr,null,Valdosta,GA,31605,US,2295617732,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+141,bogho@optimum.com,Jacquenetta,Wolfe,null,10 baldwin ave,null,Newark,NJ,7108,US,2014073030,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+142,jessDGL@aol.com,jessica,Kuntzweiler,null,416 walnut st.,null,Oakland,IA,51560,US,7124823177,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+143,rbstunna101@aol.com,jamiel,allen,null,101 Remington Ave,null,Plainfield,NJ,7060,US,9082220364,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+144,chels_romero@hotmail.com,chelsea,romero,null,3390 Canyon Dr Unit D4,null,Billings,MT,59102,US,4066527289,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+145,marliot2003@yahoo.com,oscar,orantes,null,8920 fondren village,null,Houston,TX,77071,US,8326548709,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+146,andykrick@yahoo.com,Andrew,Krick,null,204 Edgerton,null,Howard City,MI,49329,US,2319377075,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+147,brownkara43@yahoo.com,Kara,Brown,null,1122 Hill St.,null,Columbia,SC,29210,US,8032122343,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+148,dorene1968@hotmail.com,Dorene,Harter,null,1448 Mallard Dr.,null,Johnstown,CO,80534,US,9705872405,9705876477,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+149,robemed007@gmail.com,Robert,Medina,null,2842 Park Vista,null,Rialto,CA,92376,US,3232446344,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+150,brayanvaldez26@hotmail.com,valdez,brayan,null,108veacon ave,null,Lawrence,MA,1843,US,9782080904,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+151,t1221p@yahoo.com,Tiffany,Plummer,null,1401 Allenbrook Drive,null,Charlotte,NC,28208,US,7047130406,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+152,gutsandcamaros@yahoo.com,James,Olson,null,2224 E. Foothills #2,null,Missoula,MT,59803,US,4062147719,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+153,stephanierees@yahoo.com,Stephanie,Rees,null,835 Seagull Lane #C315,null,Newport Beach,CA,92663,US,9493074720,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+154,linda57p2006@yahoo.com,Linda,Patterson,null,750 S 3rd St,# 7,Silsbee,TX,77656,US,4093734064,4097675101,1948,1967,99,TRUE,FALSE,null,null,8/3/2010 10:28,5/13/2011 10:03
+155,warealehlia@yahoo.com,Alehlia,Ware,null,12 River Oaks APT G,null,Greensboro,NC,27409,US,3362108656,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+156,liltweety75227@yahoo.com,Chacilia,Carlis,null,3602 Arbor Trl.,null,Garland,TX,75043,US,9366626165,9366613421,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+158,YESSENIA5122992972,YESSENIA,RIOS,null,12303 WALLINGSTONE LN,null,AUSTIN,TX,null,null,5122992972,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+159,andydecker1@gmail.com,andrew,decker,null,3439 W. Kimberly Way,null,Phoenix,AZ,85027,US,6002222222,6024352254,null,2001,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,6/7/2011 16:35
+160,catmom@hughes.net,Christine,Doane,null,PO Box 453,null,Jaffrey,NH,3452,US,6035328243,null,null,1965,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+161,tequilamorris25@yahoo.com,TEQUILA,MORRIS,null,7324 Skillman St,null,Dallas,TX,75231,US,2145301279,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+162,h.e1981@yahoo.com,Heather,Everson,null,814 W 11th St,null,Medford,OR,97501,US,5414994730,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+163,shwaneeka@hotmail.com,Jenaca,Dickson,null,44 Hitching Post Dr.,null,Cody,WY,82414,US,3075877757,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+164,parita_cool_173@yahoo.com,parita,desai,null,5 mayer drive,null,Clifton,NJ,7012,US,9732728867,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+165,george.hyde1@gmail.com,Chris,Hyde,null,george.hyde1@gmail.com,null,Anchorage,AK,99517,US,9072782275,null,null,2011,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+166,william_baxter78@yahoo.com,william,baxter,null,4213 Hartford dr.,null,Garland,TX,75043,US,9728364562,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+167,adam_socal85@yahoo.com,Adam,Parrilla,null,6200 Vista Del Mar apt #306,null,Playa Del Rey,CA,90293,US,9094681077,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+168,mccallaghanlmft@gmail.com,Marsi,Cunningham Callaghan,null,395 Tunxis Avenue,null,Bloomfield,CT,6002,US,8609061883,null,null,1965,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+169,crichards@bellsouth.net,Charlesetta,Richards,null,19 Clearwater Lane,null,Savannah,GA,31419,US,9129203454,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+170,lspratlen@gmail.com,Lisa,Spratlen,null,2625 SW Ravensview dr,null,Portland,OR,97215,US,5033589127,null,1986,2004,99,TRUE,FALSE,null,TRUE,8/3/2010 10:28,7/24/2012 10:08
+171,fropmav@snet.net,Maribel,Parkinson,null,79 Lido Rd,null,Unionville,CT,6085,US,8605432666,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+172,boombox179@aol.com,Alex,Faeth,null,24 Eaton Court,null,Danbury,CT,6814,US,2032929246,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+173,mrsmhp21@yahoo.com,Jessica,Ellis,null,1220 Jackson St,null,Rockford,IL,61107,US,8157088729,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+174,tonyburgess1977@yahoo.com,TONY,BURGESS,null,417 HENSLEY DR APT C,null,Raleigh,NC,27615,US,9197579727,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+175,ltourtellotte@sbcglobal.net,Barbara,Hart,null,495 Laurel Hill Rd.,null,Norwich,CT,6360,US,8602040408,8609330693,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+176,rmja34@yahoo.com,Adolph,McKellop,null,1457 west rock court,null,Stone Mountain,GA,30088,US,6784991552,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+177,Zaraxcx@gmail.com,Kevin,Ward,null,568 Main St,null,Hopkinton,RI,2833,US,4013772712,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+178,houstoncherita1980@yahoo.com,Cherita,Henderson,null,13113 S. Daniel Dr.,null,Riverdale,IL,60827,US,7736296463,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+179,william_landicho@yahoo.com,William,Landicho,null,13018 Castlewind Lane,null,Pearland,TX,77584,US,7863259911,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+180,jasmin.matos@yahoo.com,Jasmin,Matos,null,3 Regal Rd,null,Edison,NJ,8820,US,7328873624,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+181,sandi_shanks@yahoo.com,Benjamin,Cropp,null,492 Lafayette Dr,null,Culpeper,VA,22701,US,5408298423,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+182,cjeffries@yahoo.com,Russel,Jeffries,null,1 Furnace St,null,Lonaconing,MD,21539,US,3014632120,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+183,gracia_meo@3hotmail.com,monica,brown,null,144 huisachee,null,Las Milpas,TX,78577,US,9569876534,null,null,1991,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+184,mhunter434@yahoo.com,Maya,Hunter,null,1901 Lafayette Street Apt 507,null,Marrero,LA,70072,US,5047048461,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+185,rbrts49@aol.com,Ernest,Murphy,null,330 East Delaware,null,Beaumont,TX,77703,US,4094546689,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+186,rasha0904@yahoo.com,rasha,nubani,null,3415 federal dr #311,null,Eagan,MN,55122,US,5104184423,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+187,julioriofrio@yahoo.com,Alison,Riofrio,null,205 Law Rd,null,Fayetteville,NC,28311,US,9107231041,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+188,lrgx2@netzero.com,Regina,Parham,null,246 Jones St,null,Arkadelphia,AR,71923,US,8702465943,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+189,ihsfaih@gmail.com,David,Sousa,null,2435 Nw 13th St,null,Corvallis,OR,97330,US,5417532344,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+190,sarahsoe6@yaoo.com,Sarah,Soe,null,11233 Borden Ave#12,null,Pacoima,CA,91331,US,8183789794,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+191,carmel794174@yahoo.com,Yvette,Richardson,null,619 BarbaraDR,null,San Marcos,TX,78666,US,8306244053,5122161075,1979,1998,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/15/2011 19:22
+192,lbaker1040@comcast.net,Lorraine,Baker,null,404 genesee st,null,Trenton,NJ,8611,US,6093965184,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+193,qtpi27@hotmail.com,rosa,Salazar,null,3648 esplanade st,null,Oceanside,CA,92056,US,7606445415,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+194,adamgonzalez18@yahoo.com,Adam,Gonzalez,null,5615 N. Artesian,null,Chicago,IL,60659,US,7735975581,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+195,isalifou@gmail.com,Idrissa,Salifou,null,P.O Box 1372,null,Leesburg,VA,20176,US,7032689226,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+196,ta_waha_canka_maza_win07@yahoo.com,Rebecca,Jones,null,688 Meskwaki Rd.,null,Tama,IA,52339,US,6414845434,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+197,mullenm81@msn.com,mark,mullen,null,438 goddard street,null,Harrodsburg,KY,40330,US,8596132978,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+198,msusweetie82@yahoo.com,Rose,Kilby,null,412 Stevenson,null,Jacksonville,AR,72076,US,5018372889,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+199,jgoodwin88@comcast.net,phillip,english,null,7108 kensington trail,null,Lithonia,GA,30038,US,6786153558,4043897174,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+200,mendiblesl@yahoo.com,Laura,Mendibles,null,P.O. Box 743,null,Coolidge,AZ,85228,null,5204146979,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+201,lil_missWulf@yahoo.com,Mariah,Stuchlik,null,115 North Pershing,null,Hooker,OK,null,null,3038773283,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+202,ajfoist@sbcglobal.net,amanda,foist,null,141 Frostwood Lane,null,Greenwood,IN,46143,US,3175577164,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+203,dallinskylermaughan@myfamily.com,Dallin,Maughan,null,1742 N. 110 E.,null,Lehi,UT,84043,US,8017668122,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+204,djstarbighr_ut@yahoo.com,lLYNN,TURPIN,null,12202 monte vista,null,Boron,CA,93516,US,8016373073,7607625657,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+205,K6Monsalud@aol.com,Kylene,Monsalud,null,7769 Alcamo Road,null,San Diego,CA,92126,US,8585301654,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+206,tezta@tadesseverizon.net,TEZITA,WOLDEGEBRALE,null,5825 14TH ST NW,null,Washington,DC,20011,US,2027269142,2024606513,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+207,marinethsantiag516@att.net,Marineth,Santiaguel,null,445 W. Barry #203,null,Chicago,IL,60657,US,7732966820,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+208,christinascrapbookgirl@yahoo.com,Christina,Shelton,null,3273 Ivy Court,null,Lake Elsinore,CA,92530,US,9514712227,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+209,ldalyinnj@hotmail.com,Lisa,Daly,null,9 Walnut Trail,null,Newton,NJ,7860,US,9735792252,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+210,rogers1995@att.net,Sandra,Rogers,null,7172 Banks,null,Waterford,MI,48327,US,2486811759,null,null,1982,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+211,bubbajbrooks@aol.com,tammy,Brooks,null,32741 Dorama ave,null,Acton,CA,93510,US,6612692766,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+212,darlacaugle@hotmail.com,BARLA,Harnish,null,194 northeast coachlight drive,null,Topeka,KS,66617,US,7853574421,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+213,trinettehenry@yahoo.com,Trinette,Henry,null,1106 Princess Dr,null,Stockton,CA,95209,US,2095942716,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+214,rcmasonry@live.com,Carina,Molina,null,7790 Willow Pond Ct.,null,Manassas,VA,20111,US,5713828541,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+215,JONIECELEE@YAHOO.COM,JONIECE,LEE,null,876 HUNTERDON STREET.,null,Newark,NJ,7112,US,9739233935,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+216,detonjl29@yahoo.com,james,denten,null,7564 main st,null,Hanford,CA,93230,US,5595828447,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+217,blueeyedpony4u@aol.com,Kevin,Winters,null,34480 countyline rd.#53,null,Yucaipa,CA,92399,US,9097957101,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+218,capricorn1480@hotmail.com,Eric,Jones,null,1035 Sherman Ave,null,South Plainfield,NJ,7080,US,9082261096,null,null,1978,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+219,BETHHOWARD@GMAIL.COM,BETH,HOWARD,null,4524 MARISSA WAY,null,Knoxville,TN,37938,US,8652371508,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+220,BLAKELY3364914326,BLAKELY,KRISTINA,null,x,null,Raleigh,NC,27606,US,3364914326,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+221,kingrichardsondj@yahoo.com,Dj,Richardson,null,Po Box 956,null,Basin,WY,82410,US,3072506060,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+222,Chernandez_1814@yahoo.com,Cynthia,Hernandez,null,202 S. 174th dr,null,Goodyear,AZ,85338,US,6232188210,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+223,darceyhoward27@yahoo.com,darcey,HOWARD,null,1723west80thstreet,null,Los Angeles,CA,90047,US,3237597172,3237598890,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+224,naeemmclean@yahoo.com,Naeem,Mclean,null,118 William Berg,null,Woodstock,GA,30189,US,6788518306,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+225,alexandrazugel@yahoo.com,Adam,Moore,null,7152 high hill street,null,Sparks,NV,89436,US,7759546085,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+226,Elisha_Dykes@yahoo.com,Elisha,Dykes,null,222 Pligrim,null,Highland Park,MI,48203,US,3132856696,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+227,DEREKEARLEY08@YAHOO.COM,DEREK,EARLEY,null,12531 S. WINCHESTER,null,Calumet Park,IL,60827,US,7735632746,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+228,javierflores92@hotmail.com,javier,flores,null,107 leon,null,Laredo,TX,78046,US,9562203489,null,null,2011,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+229,torylucky@yahoo.com,linda,meagher,null,8766 boise st.,null,Ventura,CA,93004,US,8056476223,null,null,1970,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+230,VALERIE21342287721@fixmyemail.com,VALERIE,SHEPHERD,null,4 MERRITT STREET,null,Norwalk,CT,6854,US,2134228772,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+231,DEBROHERAVEN@YAHOO.COM,SUSAN,MYERS,null,718 CRATER STREET,null,Charlotte,NC,28205,US,7044992107,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+232,mnsanchez@yahoo.com,monica,sanchez,null,754 beacon dr.,null,San Diego,CA,92114,US,6197412111,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+233,willian89smith@yahoo.com,william,smith,null,11943southhw421,null,Manchester,KY,40962,US,6065981845,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+234,pastichenails@live.com,monica,jauregui,null,3125 n golden ave apt#11,null,San Bernardino,CA,92404,US,9092737570,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+235,sawayarose@ymail.com,Rose,Sawaya,null,31319 Arrowhead,null,St Clair Shores,MI,48082,US,5867788144,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+236,fruity_pebbles02@hotmail.com,Jordan,Thompson,null,501 Hammon Ct,null,Wheatland,CA,95692,US,5306334806,null,null,1969,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+237,apcupples@yahoo.com,Andrew,Cupples,null,4498 Billy Maher rd.,null,Memphis,TN,38135,US,9018328521,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+238,calirrh2@hotmail.com,Rocio,Reyes,null,13041 palomar St,null,Westminster,CA,92683,US,7148527024,null,null,1978,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+239,VERONICA5628792830,VERONICA,BARAJAS,null,653,null,Bell,CA,90201,US,5628792830,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+240,Vargas1804@yahoo.com,John,Vargas,null,4681 kipling st,null,Wheat Ridge,CO,80033,US,7208824504,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+241,lacy_shaw@yahoo.com,Lacy,Shaw,null,6236 Brookline Dr,null,Indianapolis,IN,46220,US,3172952251,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+242,darrenmyer@gmail.com,Darren,Myers,null,2613 15th St S,null,La Crosse,WI,54601,US,6083857439,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+243,viclee320@yahoo.com,Victor,Lee jr.,null,1109 Aubuchon Rd,null,Richmond,VA,23223,US,8047838329,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+244,lexie22chantel@aim.com,Alexis,Sirrine,null,9908 Ardmore Court,null,Northville,MI,48167,US,2487706313,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+245,vaughnelice320@yahoo.com,charity,jones,null,13960 hillcroft,null,Houston,TX,77085,US,8327824988,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+246,atcow@yahoo.com,Donnaline,Sconyers,null,705 Mosley St,null,Vidalia,GA,30474,US,9125377700,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+247,scurtis@earthlink.net,Samuel,Curtis,null,10976 Green Moss Dr. N.,null,Cordova,TN,38018,US,9012337736,9016244661,null,1974,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+248,ELIZABETH20835134041@fixmyemail.com,ELIZABETH,HOWARD,null,231 EAST MAIN,null,Parker,ID,83438,US,2083513404,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+249,ricardo16979@hotmail.com,RICARDO,ALVAREZ,null,4233 jonesboro rd g-7,null,Forest Park,GA,30297,US,4045534169,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+250,InkAndTheories@aol.com,Neil,Hoffmann,null,39 Third St,null,Mont Vernon,NH,3057,US,6036735379,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+251,reddude7@gmail.com,Joe,Smith,null,cool 3132,null,Johnston,IA,50131,US,5154324321,5152341234,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+252,ashley_5581@yahoo.com,Linda,Foster,null,3140 Virginia Downs Apt D,null,Montgomery,AL,36116,US,3342810523,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+253,ROBBY8595@YAHOO.COM,ROBERTO,MARTINEZ,null,7102 BENARES ST,null,Downey,CA,90241,US,5626597996,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+254,lmhomer08@hotmail.com,Laure,Martin,null,709 Topler St,null,Lafayette,LA,70501,US,3372694029,3373266894,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+255,lakeitha_haskins@yahoo.com,Lakeitha,Haskins,null,2425Bickers St Apt 406,null,Dallas,TX,75212,US,2144860184,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+256,omurrell@dallasisd.org,Omesha,Murrell,null,6363 w camp wisdom rd 1423,null,Dallas,TX,75236,US,2149629387,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+257,cjleewyant03@hotmail.com,april,wyant,null,607e. 8th st,null,West Frankfort,IL,62896,US,6186940570,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+258,bahaprettygrl@yahoo.com,Amber,Deveaux,null,1 karen ave,null,Las Vegas,NV,89109,US,7024459944,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+259,cannguyen81@yahoo.com,Can,Nguyen,null,2150 Monterey Hwy  #167,null,San Jose,CA,95112,US,4088395225,null,null,1977,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+260,msluckypenny@gmail.com,Shannon,Hanrion,null,1416a 183rd St. S.E.,null,Bothell,WA,98012,US,4257800938,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+261,kamleshbirdica1@fixmyemail.com,kamlesh,birdi,null,1540 n geraldine way,null,Fresno,CA,93728,US,5594983932,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+262,klittlebit84@cableone.net,donna,kelley,null,6304 cedar court,null,Anniston,AL,36206,US,6783788560,null,null,1974,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+263,OLEKSANDRMURASHKOMN1@fixmyemail.com,OLEKSANDR,MURASHKO,null,375 CRETIN AVE S,null,Saint Paul,MN,55105,US,6512713551,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+264,greer05@msn.com,Deanna,Greer,null,629 N Billow Dr,null,San Dimas,CA,91773,US,9093945855,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+265,fashaemolett@yahoo.com,fa'shae,molett,null,1101 wallace,null,Clovis,NM,88101,US,5756930303,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+266,queenz4ever@gmail.com,CHRISTOPHER,HILL,null,2411 CROMWELL ROAD,null,Norfolk,VA,23509,US,7574354202,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+267,mikell9@hotmail.com,Michael,Daniels,null,3912 Creech,null,Haltom City,TX,76111,US,8178386503,8178199569,null,1900,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+268,vassiehouston@comcast.net,Vassie,Houston,null,17783 e. colorado dr,null,Aurora,CO,80017,US,7207487691,null,null,1979,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+269,andreaedgenmb@yahoo.com,Andrea,Edge,null,4698 hwy 236,null,North Myrtle Beach,SC,29582,US,8436023045,8439975854,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+270,mzjazmine08@yahoo.com,Chenika,Williams,null,1714 Windmill Ln,null,Mesquite,TX,75149,US,9728698829,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+271,juiceyniki@yahoo.com,Whitney,Trent,null,21331 Bridle ath Dr,null,Petersburg,VA,23803,US,8044905217,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+272,gillsarah@bellsouth.net,sarah,gill,null,2700 Oakwood Ave,null,Nashville,TN,37207,US,6152288990,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+273,marcieannh@yahoo.com,marcie,hernandez,null,640 n. clayton,null,Wichita,KS,67203,US,3168066449,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+274,crtnymp1943@yahoo.com,Courtney,Preston,null,124 Homestead Blvd,null,Longmeadow,MA,1106,US,4135676759,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+275,asvkod99@smumn.edu,Adam,Skoda,null,210 4th St E,null,Cresco,IA,52136,US,5635473090,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+276,shortcake9977@hotmail.com,Dawn,Continetti,null,24921 Burnt Hill Rd.,null,Clarksburg,MD,20871,US,2408992151,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+277,kendallwhite84@hotmail.com,Kendall,White,null,2301 W Lexington,null,Elkhart,IN,46514,US,5743333470,null,null,1984,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,10/22/2012 0:41
+278,thejodster88@yahoo.com,jodi,McBrayer,null,3721 Stone Creek Pkwy,null,Fort Worth,TX,76137,US,3214276255,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+279,steph.gomez14@yahoo.com,stephanie,Gomez,null,5271 Huber Rd,null,Seguin,TX,78155,US,8303722519,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+280,sp.formula4design@gmail.com,Seth,Paulson,null,1325 Hyland Drive,null,Stoughton,WI,53589,US,6088779969,6084697913,null,1900,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+281,bradley0114@yahoo.com,Brad,Woodlee,null,3040 E Shea Blvd,null,Phoenix,AZ,85028,US,3173739100,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+282,saundrabmk@gmail.com,Saundra,Lamphiear,null,7 Brook St,null,Somerset,NJ,8873,US,7326229166,null,null,1975,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+283,pandalexia67@yahoo.com,brenda,stone,null,18 hydrangea lane,null,Hilton Head Island,SC,29926,US,8436838015,8436822676,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+284,tergagnon@yahoo.com,Teresa,Gagnon,null,694 Hilldale Ave,null,Haverhill,MA,1832,US,9783745330,null,null,1978,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/16/2011 1:03
+285,martinez.j1987@yahoo.com,jessica,martinez,null,374 Dutchman Rd,null,Watsonville,CA,95076,US,8317078242,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+286,ericsyks@yahoo.com,Eric,Sykes,null,3709 County Rd 2184,null,Cleveland,TX,77327,US,2816225824,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+287,ZACHARYDOUGLAS407@yahoo.com,Molie,Douglas,null,407 Maple St,null,San Augustine,TX,75972,US,9362883715,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+288,p_opokuduku@hotmail.com,Joseph,Opoku-Duku,null,6 Second Ave.,null,Dudley,MA,1571,US,5084619007,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+289,lowg_01@yahoo.com,Erwin,deleon,null,136 LANCE LN,null,San Marcos,TX,78666,US,5127493145,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+290,fedeavakian@hotmail.com,FEDERICO,AVAKIAN,null,35604 CANFIELD RD,null,Palomar Mountain,CA,92060,US,3107382107,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+291,woods_renae@yahoo.com,renae,woods,null,544 mobile estates dr.,null,Ridgeland,MS,39157,US,7692578127,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+292,cds41752@sbcglobal.net,Cathy,Schroeder,null,3134 S. 126th E. Ave.,null,Tulsa,OK,74146,US,9186220810,null,null,1971,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+293,michaelyoungren@yahoo.com,Michael,Youngren,null,17 Sunset Ave,null,Glen Ellyn,IL,60137,US,6304321590,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+294,scottteva2@yahoo.com,teva,truong,null,119 adrienne ave,null,Blackwood,NJ,8012,US,null,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+295,richidaniel@hotmail.com,Ricardo,Quiroga,null,13085 morris rd,null,Alpharetta,GA,30004,US,4043498520,6789534525,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+296,ederlin_la_bebe@hotmail.com,rosi,pena,null,207 parker st,null,Newark,NJ,7104,US,9739006604,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+297,fcn0903@yahoo.com,Felicia,Neely,null,2330 Olive st. Apt.106,null,Columbus,GA,31904,US,7065051471,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+298,Emi4647@msn.com,Hector,Barron,null,4647 E Alta Vista Rd,null,Phoenix,AZ,85042,US,6029305070,6024541890,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+299,donette.f@sbcglobal.net,donette,faraoni,null,485 w nees ave apt 147,null,Fresno,CA,93711,US,9165414639,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+300,florida9420@hotmail.com,Andrea,Tamburini,null,11221 51st #1037,null,Phoenix,AZ,85044,US,5205073523,null,null,1972,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+301,shelleyhalpin@yahoo.com,shelley,halpin,null,2901ridge view dr apt 624,null,Plano,TX,75025,US,4696753171,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+302,KAYLA27634566001@fixmyemail.com,KAYLA,ELSWICK,null,107 3RD AVE,null,Richlands,VA,24641,US,2763456600,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+303,mzshawtybabe4eva@aol.com,Maddie,McGowan,null,2921 Capen Dr.,null,Bloomington,IL,61704,US,3098303515,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+304,starwander520@yahoo.com,Charles,Hamburg,null,127 Old Cold Spring Rd,null,Mountain City,TN,37683,US,4237971547,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+305,gnoheart@yahoo.com,Gary,No Heart,null,P.O.box#6,1266,Wanblee,SD,57577,US,6054076639,6054626274,1954,1977,1,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/16/2011 14:45
+306,lagirl7886@aol.COM,Lauren,Gross,null,98 flipper ave,null,Manahawkin,NJ,8050,US,6097093657,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+307,soccerboy_2008@hotmail.com,Corey,Smelser,null,4051 Caney Creek lane,null,Chapel Hill,TN,37034,US,9313642190,9316267571,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+308,chellerawlings@yahoo.com,Tonya,Luck,null,1736 Bay Street Se,null,Washington,DC,20003,US,2025602196,null,null,1985,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+309,hayder6887@yahoo.com,Matthew,Hayden,null,3146 Barkway Dr.,null,Sterling Heights,MI,48310,US,5869773347,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+310,frizzled3@yahoo.com,Gail,Sulo,null,11725 W Mauna Loa Lane,null,El Mirage,AZ,85335,US,4804301372,null,null,1978,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+311,clark.samantha@gmail.com,Daniel,Allen,null,1001 Ritchey St,null,Helena,AR,72342,US,8708165758,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+312,jorgevasquez0925@sbcglobal.net,Suzanne,vasquez,Ms.,1706 Mona Dr,null,Killeen,TX,76549,US,8062246101,8067441321,1960,1977,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,7/20/2012 10:55
+313,JAMESSMITHIL1@fixmyemail.com,JAMES,SMITH,null,221 E 121ST PLACE APT 4,null,Chicago,IL,60628,US,7082247833,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+314,pzwierzyna@yahoo.com,Patricia,Zwierzyna,null,660 Lakeside Circle Drive,null,Wheeling,IL,60090,US,8477490977,null,null,1970,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+315,missnall@yahoo.com,Michelle,Nall,null,2005 Acorn Way,null,Louisville,KY,40216,US,5024477076,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+316,addie.shaw@gmail.com,Addie,Shaw,null,3501 SE 198th Ave,null,Camas,WA,98607,US,3608445462,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+317,the_tsax_man@yahoo.com,drew,davies,null,1799 E Sunset Rd,null,Tooele,UT,84074,US,8016289005,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+318,roemello13@yahoo.com,Roemello,Boseman,null,124 Brookwood Dr,null,Richardson,TX,75080,US,2147749291,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+319,zim2969@hotmail.com,Amy,Niedert,null,513 N Minnesota St,null,Las Vegas,NV,89107,US,7028211177,null,null,1985,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+320,nicole29229@yahoo.com,Catherine,Fields,null,213 Stockport Rd,null,Columbia,SC,29229,US,8037274157,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+321,shay.collier@yahoo.com,Shay,Collier,null,2877 Screech Owl Way,null,Sacramento,CA,95834,US,9162856755,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+322,perickeys@yahoo.com,Eric,Keys,null,151 Somerfield Road,null,Swedesboro,NJ,8085,US,8583377320,null,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+323,KELLY4797909572,KELLY,HUDGENS,null,12834 BUSH VALLEY RD,null,Lincoln,AR,72744,US,4797909572,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+324,jaw1857@yahoo.com,joshua,wright,null,314 warner ave apt.1,null,Jonesboro,AR,72401,US,8702752273,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+325,marvin_rivera86@yahoo.com,Marvin,Rivera,null,7810 S. Kedvale Ave,null,Chicago,IL,60652,US,7736030896,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+326,yiapeter71@yahoo.com,Mai See,Lor,null,12803 N. Memorial Drive,null,Collinsville,OK,74021,US,7172033506,7172034740,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+327,oakwoodjeremy@hotmail.com,Jeremy,Martin,null,7000 Adventist Blvd.,null,Huntsville,AL,35896,US,5127846880,5122399669,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+328,kellymills@mchsi.com,Kelly,Mills,null,5217 Old Spicewood Springs Rd,null,Austin,TX,78731,US,5122674292,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+329,FASTIMES04@MSN.COM,ANDREW,GRAU,null,13246 FULLERTON,null,Victorville,CA,92392,US,9092664179,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+330,tfain90@yahoo.com,Bear,Fain,null,3444 Beasley Drive,null,Cumming,GA,30041,US,3173299295,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+331,JOSEPHHOLDER1984@YAHOO.COM,Joseph,Holder,null,147  tralee dr.,null,Paducah,KY,42003,US,2705643353,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+332,aliciabrown715@yahoo.com,alicia,Lacy,null,325 East Burliegh,null,Milwaukee,WI,53222,US,4146511596,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+333,ste5n@aol.com,Steve,Near,null,4444 E Benson Hwy,null,Tucson,AZ,85706,US,5205749426,null,null,1981,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+334,cheyanne0889@yahoo.com,Jessica,Foley,null,511 S Ave G,null,Clifton,TX,76634,US,2542530616,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+335,lawrnair@msn.com,Karuna,Nair,null,8361  Wolcott  Ave  So,null,Seattle,WA,98118,US,2066123879,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+336,renaaloan@yahoo.com,rena,singh,null,9454 beckford ave,null,Northridge,CA,91324,US,8187759891,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+337,Catloverhargrove@gmail.com,Laura,Hargrove,null,825 henry st.,null,Portsmouth,VA,23704,US,7577293080,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+338,maryjvalley@yahoo.com,Mary,Valley,null,539 rosewood avenue,null,Little Rock,AR,72211,US,5012270564,null,null,1981,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+339,ploikuanut@yahoo.com,Chris,Reber,null,42 henry ave,null,Nottingham,MD,21236,US,4106632687,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+340,dmcsway@yahoo.com,Krystin,Gordon,null,P.O Box 462202,null,Garland,TX,75046,US,2147188860,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+341,kovizoli73@yahoo.com,zoltan,gelleny,null,1250 golden cir,null,Golden,CO,80401,US,7209344156,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+342,sister_back@yahoo.com,Colleen,Wilbanks,null,1850 Grant St,null,Beloit,WI,53511,US,6089316088,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+343,sanchezlilsis@yahoo.com,amanda,bulkowski,null,1213 watson,null,Grand Rapids,MI,49504,US,6166350321,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+344,show_out_kid84@yahoo.com,Christopher,Cox,null,521 north adams ave,null,Henrico,VA,23231,US,8049086714,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+345,mxtimes5@comcast.net,Kirk,Merricks,null,6 Paddington Way,null,Plymouth,MA,2360,US,5087474677,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+346,madhatter.boutique@yahoo.com,Sara,Brewer,null,903 Normal Ave,null,Chattanooga,TN,37405,US,9529131103,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+347,jmwrenn@wrennest.com,Jonathan,Wrenn,null,1815 Pecan Grove,null,Carrollton,TX,75007,US,4695799840,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+348,maria_tapia8@yahoo.com,maria,tapia,null,919 langerly,null,Oxnard,CA,93033,US,8058904012,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+349,Chinni.p@gmail.com,Neha,Bemmetse,null,19 nunn avene,null,Washington,NJ,7882,US,9083207043,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+350,vaccov@msn.com,victor,vacco,null,2000 Coutland Drive,null,Des Moines,IA,50315,US,5158687281,null,null,1974,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+351,xas818@aim.com,Kara,Sornberger,null,930 sugur meadow dr,null,Buford,GA,30518,US,4049325754,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+352,ELIZABETH73470944321@fixmyemail.com,ELIZABETH,WILLIAMS,null,4126W13MILERDAPTB,null,Royal Oak,MI,48073,US,7347094432,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+353,JOYCE90169168701@fixmyemail.com,JOYCE,BARBER,null,1243 MEDA STREET,null,Memphis,TN,38114,US,9016916870,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+354,tristans_mama6@hotmail.com,melissa,kelly,null,1153 s i ave,null,Nevada,IA,50201,US,5154510026,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+355,gj_myles21@yahoo.com,Gressiett,Myles jr,null,4451 victoria pk dr,null,Los Angeles,CA,90019,US,3234561322,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+356,derek_m.osborne@yahoo.com,Derek,Osborne,null,531 Joel Dr.,null,Marietta,GA,30066,US,6784467668,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+357,ojitos83@univision.com,Anna,Calderon,null,12339 Arlee Ave,null,Norwalk,CA,90650,US,5628688571,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+359,handywoman247@gmail.com,susanna,gee,null,3401 Bluffside Dr,null,Richmond,VA,23237,US,4349172528,null,null,1973,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+360,carlisle2170@roadrunner.com,Stewart,Carlisle,null,null,null,Reed,KY,42451,US,2708544014,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+361,jia_4_me@hotmail.com,jia,luthra,Ms.,12001 old columbia pike,null,Silver Spring,MD,20904,US,2404860486,null,1984,2005,0,TRUE,FALSE,null,null,8/3/2010 10:28,10/6/2011 8:55
+362,ddcc1627@alaska.net,Dennis,Cooney,null,5800 Lake Otis Pkwy Apt. K-372,null,Anchorage,AK,99507,US,9072762763,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+363,marteshiaf@yahoo.com,Marteshia,Ferguson,null,904 East 5th Street,null,Cahokia,IL,62206,US,6182150176,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+364,tinadouglas1962@yahoo.copm,leon,douglas,null,1962 co rd 36 lot 2,null,Summerdale,AL,36580,US,2519896153,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+365,jocpaq@yahoo.com,Jocelyn,Paquette,null,13 Emery LN,null,Weare,NH,3281,US,2073231890,null,null,1965,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+366,tmgvns@yahoo.com,Timmothy,Givens,null,3895 N Riverview Dr,null,Robstown,TX,78380,US,3616886816,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+367,aoniachuukita@gmail.com,Amenina,Opet,null,No Address,null,Honolulu,HI,96819,US,8084500427,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+368,jherna12@lausd.net,Julie,Hernandez,null,11440 Old River School Road Apt. 1,null,Downey,CA,90241,US,6265322339,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+369,rpav61@comcast.net,Nicholas,Pavadore,null,2 Swan Dr,null,East Taunton,MA,2718,US,5088800785,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+370,harrisville4266@yahoo.com,Tracy,Smith,null,12418 Wells Rd.,null,Milan,MI,48160,US,7344345691,7344396853,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+371,tpioneer07@yahoo.com,Theresa,Wilson,null,26199 Regency Club #4,null,Warren,MI,48089,US,5867735567,3139260108,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+372,yo_man_2_be@yahoo.com,Jacob,Holmes,null,206 Sapelo Circle,null,Augusta,GA,30901,US,7065132703,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+373,breannavanderhost@yahoo.com,Bre'Anna,Vanderhost,null,567 abe trl,null,Georgetown,SC,29440,US,8036252162,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+374,gtmmrussel@aol.com,Tamera,Russel,null,3347 Dominica STreet,null,West Sacramento,CA,95691,US,9163724225,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+375,rasoolkhan04@gmail.com,Rasool,Mohammed,null,6312 N.Talman Ave,null,Chicago,IL,60659,US,7738707677,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+376,fatt_daddy_drac@yahoo.com,luke,bussell,null,575 culpepper drive,null,Mount Sterling,KY,40353,US,8593988823,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+377,tinamusic92@yahoo.com,Christina,Anderson,null,1692 heather lane,null,Livermore,CA,94551,US,9254499636,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+378,cozys.rozys@hotmail.com,Charles,Brown,null,4127  glass  lantern  dr,null,North Las Vegas,NV,89032,US,7028093580,null,1900,1978,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/15/2011 3:05
+379,amberf@uga.edu,Amber,Farmer,null,2165 S. Milledge Ave. Apt. B10,null,Athens,GA,30605,US,6784286510,null,1989,2007,2,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/24/2011 9:45
+380,MCLEAN@GMAIL.com,mac,MCLEIN,null,11822 wilmington dr,null,North Hills,NC,27609,US,9197816505,null,null,1977,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+382,lady_isatou@yahoo.com,isatou,thorpe,null,5396 sany stream drive,null,Stone Mountain,GA,30087,US,7704130399,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+383,Blondrea02@yahoo.com,Neal,Ramdhanie,null,1601 fancher street,null,Vinton,LA,70668,US,3373049688,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+384,thekiing281474@yahoo.com,William,Owens,null,15417 Preston Rd,null,Dallas,TX,75248,US,2142727526,null,null,1958,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+385,Neferditie@yahoo.com,Nefertari,Israel,null,6540 Fenham St,null,Oakland,CA,94621,US,4157588428,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+386,brianpellgal@yahoo.com,BRIAN,PELLEGAL,null,2316 WASHINGTON AVENUE UNIT 208,null,New Orleans,LA,70113,US,5043735102,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+387,jennierkr4@yahoo.com,jennifer,mark,null,1050 bridges-quinn circle,null,Summit,MS,39666,US,6016800952,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+388,hafeez214@yahoo.com,Azhar,Hafeez,null,5 Westcott Road,null,Stamford,CT,6902,US,2034346432,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+389,Marcelasosa87@yahoo.com,Marcela,Sosa,null,195 E.Carson,null,Colusa,CA,95932,US,5305015258,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+390,nldora@yahoo.com,Nalini,Boodram,null,80 Cedar St,null,Malden,MA,2148,US,7813243345,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+391,hergarz1201@yahoo.com,Jose,Hernandez,null,4931 S Kildare Ave,null,Chicago,IL,60632,US,7089259045,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+392,bell_jalen@live.com,Jalen,Bell,null,1209 E. Michigan Ave,null,Albion,MI,49224,US,5176127657,null,null,1960,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+393,beverlywesley89@yahoo.com,Beverly,Wesley,null,4504 Eagle St.,null,Denver,CO,80239,US,7204908178,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+394,kabuki_keekai@yahoo.com,christain,marqueses,null,1827 wayne st,null,Pomona,CA,91767,US,6263243178,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+395,skins_fan7@yahoo.com,Brad,Thompson,null,11301 Regal Ct,null,Fredericksburg,VA,22407,US,5408412390,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+396,ajtang1021@hotmail.com,yun,tang,null,2224 warm walnut dr,null,Las Vegas,NV,89134,US,7023664200,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+397,silvergrizz47@hotmail.com,Taadjima,Bland,null,1406  military,null,Dodge City,KS,67801,US,6202555775,null,null,1965,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+398,faderjedi@gmail.com,james,Brady,null,1401 johnson hollow,null,Schuyler,VA,22969,US,4342636246,7032831868,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+399,monie1934@yahoo.com,Sabrina,Virgues,null,3022 N Bolton Ave,null,Indianapolis,IN,46218,US,3174737724,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+400,grizzeldaz@aol.com,amanda,finlay,null,82 hawthorns st,null,Malden,MA,2148,US,7813212744,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+401,rjww1@verison.net,Raymond,Weaver,null,317 Academy St.,null,Allegan,MI,49010,US,2696861317,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+402,cute_babie_gurl19@yahoo.com,Tiffany,Nguyen,null,3850 Antiem St.,null,San Diego,CA,92111,US,8585712032,3233347627,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+403,mchavez411@sbcglobal.net,Michael,Chavez,null,635 Bel-aire Dr.,null,Dinuba,CA,93618,US,5595911162,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+404,greeneyes.mex1@yahoo.com,Dayan,Hernandez,null,4319 E 53rd St,null,Maywood,CA,90270,US,3235621571,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+405,krzbaseballmom@comcast.net,Summer,Navas,null,1071 West Cottage Pl,null,Santa Rosa,CA,95401,US,7072924301,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+406,mmaiden07@aol.com,melia,maiden,null,104 A East School street,null,Richmond,IN,47374,US,7659778291,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+407,krock5746@yahoo.com,Kevin,Scruggs,null,221 Hollis st,null,Rutledge,GA,30663,US,4048632595,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+408,bones4653@yahoo.com,Theo,Smith,null,4531 Park Ave,null,Riverside,CA,92507,US,9512753765,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+409,jillyjello@yahoo.com,Jill,Burrell,null,5946 HWY 441n,null,Baldwin,GA,30511,US,7067788270,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+410,weezekristo@hotmail.com,Louise,Kristo,null,12 Norcross Point,null,Shrewsbury,MA,1545,US,5084214798,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+411,juan.nakamura@yahoo.com,juan,nakamura,null,4142 w nelson,null,Chicago,IL,60641,US,7735455991,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+412,dkoes@gmail.com,Danny,Koester,null,60398 Nottingham Ln,null,Elkhart,IN,46517,US,5748753145,null,null,1973,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+413,viciousgirl07@yahoo.com,Krystal,Lang,null,422 164th St Ct E,null,Spanaway,WA,98387,US,2535369376,3604206872,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+414,dakotacumber@yahoo.com,Dakota,Cumber,null,714 Coolidge St,null,Neenah,WI,54956,US,9207222748,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+415,kp_hustlematik@Yahoo.com,Brandon,Adams,null,327 Ashton Place,null,Mcdonough,GA,30253,US,6786228730,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+416,just1complexsoul@gmail.com,Andrea,Phillips,null,18524 Collins St #105,null,Tarzana,CA,91356,US,3102806292,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+417,shemac96@aol.com,Sherry,McCallum,null,3114 Sw 342nd St,null,Federal Way,WA,98023,US,2536615674,null,null,1972,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+418,feruzayusupova@yahoo.com,Feruza,Yusupova,null,523 d colonnade dr,null,Charlotte,NC,28205,US,7049101738,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+419,d.jgammell@yahoo.com,David,Gammell,null,2106 Strang Blvd,null,Lithonia,GA,30058,US,6784978351,4044466015,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+420,shaunyceshaun@yahoo.com,Shaunyce,Simpson,null,110 Hall St. SE,null,Grand Rapids,MI,49507,US,6163893842,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+421,aguirrev55@yahoo.com,viviana,aguirre,null,936 san francisco way,null,Rohnert Park,CA,94928,US,7074957441,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+422,mbenoit54@yahoo.com,Michael,Benoit,null,103 Woodhaven Drive,null,Natchez,MS,39120,US,6014466560,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+423,mrobi63334@aol.com,Majoria,Robinson,null,984 Marietta Ave,null,Norfolk,VA,23513,US,7578533535,null,null,1960,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+424,zamora_steph@yahoo.com,Stephanie,Zamora,null,542 Maple St,null,Carrizozo,NM,88301,US,5756485286,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+425,crisrivera74@yahoo.com,cris,rivera,null,418 moon rd,null,Griffin,GA,30223,US,4042904471,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+426,kaquana_oreiro@yahoo.com,kaquana,oreiro,null,3480 wrenwood court,null,Loganville,GA,30052,US,4045472628,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+427,lipssimpson87@yahoo.com,Stephany,Simspon,null,575 East Torrey St. Apt 221,null,New Braunfels,TX,78130,US,8305134389,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+428,jlandrum1@yahoo.com,Jessica,Landrum,null,5055 East Dover St.,null,Mesa,AZ,85205,US,4805601901,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+429,vangie_35_2002@hotmail.com,Evangelina,Lopez,null,10362 Old Farm,null,San Antonio,TX,78245,US,2106709135,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+430,dersjusme@hotmail.com,Debbie,Williams,null,480 Cason rd.,null,Cedartown,GA,30125,US,9012380588,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+431,vero134@optonline.net,Veronica,marino,null,8200 Boulevard East Apt. 14B,null,North Bergen,NJ,7047,US,2013926521,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+432,derek_o_mac@yahoo.com,derek,sharp,Mr.,7008 w us hwy 20 Lot #75,null,Michigan City,IN,46360,US,2198794016,null,1975,1994,0,TRUE,FALSE,null,null,8/3/2010 10:28,12/30/2011 21:45
+433,smokey_babygirl33@yahoo.com,Megan,Carnley,null,101 Dunlap St. Apt 7,null,Paris,TN,38242,US,7313366204,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+434,FILIPEMASCHIO@HOTMAIL.COM,Filipe,Maschio,null,3266 Kemper Ct #34,null,San Diego,CA,92110,US,6194088223,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+435,vlof3@yahoo.com,valerie,lof,null,2811 little john,null,San Antonio,TX,78209,US,2108221592,2102408243,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+436,19hotrod68@gmail.com,Melissa,Burns,null,6350 S 600 E,null,Templeton,IN,47986,US,7653850495,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+437,escobina.nyarko@yahoo.com,ABIGAIL,Nyarko,null,301 emerald court,null,Bolingbrook,IL,60440,US,6304108215,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+438,coreybanks10@yahoo.com,Daren,Sanders,null,875 W.11th St.,null,Winston Salem,NC,27105,US,3369972992,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+439,cowboylover80@yahoo.com,pamela,cooper,null,6419 parkview avenue,null,Kansas City,KS,66104,US,8163998135,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+440,dottie.savage@yahoo.com,Lillian,Savage,null,7639 Logsdon Lane,null,Concrete,WA,98237,US,3603917466,null,null,1974,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+441,stephaniee9@yahoo.com,Stephanie,Spaltro,null,23306 Brooke Lane,null,Denham Springs,LA,70726,US,7576132065,null,1969,1988,1,TRUE,FALSE,null,null,8/3/2010 10:28,11/29/2012 13:08
+442,brittany_the_devil@hotmail.com,Brittany,Lyons,null,1721 Burnside Dr,null,Maryville,TN,37801,US,8652918157,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+443,AGHAGULAL1@fixmyemail.com,AGHA,GUL,null,POST OFFICE BOX 2261,null,Gadsden,AL,35903,US,2564384749,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+444,earlie2sho@aol.com,Earline,Moseley,null,1510 Maple Street,null,Henderson,NC,27536,US,8042459650,null,null,1978,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+445,MICHAELBUTLERGA2correctmyemailcom,MICHAEL,BUTLER,null,661 WOODSONG LANE,null,Stone Mountain,GA,30087,US,4049338937,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+446,rockrobin06@hotmail.com,robin,kelly,null,2615 southern ave #104,null,Temple Hills,MD,20748,US,2406195801,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+447,eloris_hall@yahoo.com,Eloris,Hall,null,7463 TiffanyMeadows Ln,null,Fort Worth,TX,76140,US,8173862452,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+448,dglee248@sbcglobal.net,Deborah,Lee,null,31452 Campbell Rd,null,Madison Heights,MI,48071,US,2483071138,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+449,tabet1@aol.com,Betty,Coleman,null,4534 Embry Rd,null,Birmingham,AL,35207,US,2053288900,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+450,aamarine@charter.net,Aaron,Aasted,null,3523 Shipway Ave,null,Long Beach,CA,90808,US,5624218197,null,null,1978,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+451,mikeone36@yahoo.com,Michael,Barcenas,null,11545 Valevista dr,null,Fontana,CA,92337,US,9099386758,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+452,temecaakins@yahoo.com,Temeca,Akins,null,611 Shallow ct,null,Richmond,VA,23224,US,8049213829,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+453,NuTTyN@sbcglobal.net,Nikki,Custino,null,15518 Via Vega,null,San Lorenzo,CA,94580,US,5103295828,5102764432,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+454,schaeferross@hotmail.com,Ross,Schaefer,null,null,null,Ivanhoe,MN,56142,US,5075308565,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+455,mcwatkinseast0405@yahoo.com,Monisha,Avery,null,5920B Normandy,null,Fort Carson,CO,80902,US,7193603929,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+456,knukz420@yahoo.com,stephen,soto,null,7771 s camino benem,null,Tucson,AZ,85757,US,5208292389,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+457,dmtz84@hotmail.com,Daniel,Martinez,null,1694 Wilson St,null,Harlingen,TX,78552,US,8307580102,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+458,paulanapier@gmail.com,Paula,Napier,null,3495 N Bogan Rd,null,Buford,GA,30519,US,7709457187,null,null,1973,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+459,kim.collins@hotmail.com,Kimbery,Collins,null,548 MASTERSON CT,null,Ewing,NJ,8618,US,6099477677,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+460,williej.robinson@yahoo.com,Williej,Robinson,null,414 cliftontrunpike,null,Waynesboro,TN,38485,US,9317225128,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+461,RENEAMWALKER@MSN.COM,Renea,Walker,null,5853 THIRD COVE APT 6,null,Memphis,TN,38134,US,9013532349,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+462,TyeDyeTim@comcast.net,Tim,Willis,null,731 E. Sciota,null,Peoria Heights,IL,61616,US,3092567330,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+463,melania.deaver@gmail.com,Melania,Deaver,null,349 South Main Street,null,Seymour,CT,6483,US,7049893903,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+464,danielle20071@hotmail.com,danielle,davis,null,1716 e.73rd st. apt 607,null,Tulsa,OK,74136,US,9184779453,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+465,m1jzrcpbs0dk8v5@temporaryinbox.com,bilbo,baggins,null,12345 smithy smithy,null,Anchorage,AK,99508,US,9072125482,9072125453,null,1970,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+466,SWuanya@yahoo.com,wuanya,snowden,null,null,null,Annapolis,MD,21403,US,4108581781,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+467,raya2474@yahoo.com,thouraya,mackie,null,7855 manor,null,Dearborn,MI,48126,US,3133842411,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+468,deerwoodmack@msn.com,Lonnie,Moreland,null,1520 deerwood dr.,null,Decatur,GA,30030,US,4043710488,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+469,scott_jenkins06@yahoo.com,scott,jenkins,null,1212 saylors ave,null,Moncks Corner,SC,29461,US,8437544441,null,1978,1996,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,7/24/2012 10:08
+470,michelle.newell@netxv.net,Carlea,Newell,null,po box 33,null,San Angelo,TX,76904,US,3252230001,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+471,tristan.melissa@yahoo.com,Melissa,Tristan,null,6721 Marble Creek Loop,null,Austin,TX,78747,US,9158613610,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+472,kmacdo1058@aol.com,Sam,Macdonald,null,17442 alta vista cr.,null,Huntington Beach,CA,92647,US,7148421912,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+473,hicks@yahoo.com,John,Hicks,null,Pamphila ave apt 124,null,Tucker,GA,30085,US,6795221787,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+474,terrileej@yhoo.com,Terrilee,Johnson,null,728 Palace pkwy,null,Tucson,AZ,85742,US,7757383220,null,null,1979,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+475,guthsdad@aol.com,Terry,Guthary,null,PO Box 2622,null,Mckinleyville,CA,95519,US,7078394788,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+476,dusty448@yahoo.com,Cathy,Malloy,null,257 Stoney Brook Lane,null,Bloomingdale,IL,60108,US,6303510745,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+477,yondinalaury@yahoo.com,yondina,laury,null,3023 Ruckle st.,null,Saginaw,MI,48601,US,9893323193,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+478,dgd7540@yahoo.com,Darryl,Dyess,null,25781 Oak Hill Rd,null,Denham Springs,LA,70726,US,2256658293,null,null,1974,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+479,eric213@centurytel.net,Holly,Celestine,null,2003 bowie lane,null,Corinth,TX,76210,US,9403210814,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+480,norasingz@yahoo.com,nora,rodriguez,null,1313 dragoon,null,Detroit,MI,48209,US,3137846672,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+481,lloydkeosha@yahoo.com,Larry,Coleman,null,3608 Halsell St,null,Carrollton,TX,75006,US,3187378899,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+482,shawnbrklyn@yahoo.com,Shawn,Thompson,null,534 RedCliff,null,San Antonio,TX,78216,US,2108234358,null,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+483,mamertolao@yahoo.com,MAMERTO,LAO,null,6300 west tropicana ave #170 las vegas nv,null,Las Vegas,NV,89103,US,7024894483,7027624891,null,1972,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+484,satsol1967@yahoo.com,Ron/theresa,Raymond,null,124 Bushy Creek Rd,null,Woodruff,SC,29388,US,8644980037,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+485,kasem33@aol.com,KASEN,SHAMI,null,16140 MIDDLEBURY DR,null,Dearborn,MI,48120,US,3136589228,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+486,jermainewilliams28@gmail.com,Jermaine,Williams,Mr.,2309 Berkeley Ave,null,Austin,TX,78745,US,5126937178,null,null,2000,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,10/20/2012 1:25
+487,internetmoneyhere@yahoo.com,Jon,Yoder,null,11418 Osage St Nw,null,Coon Rapids,MN,55433,US,7634320378,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+488,mlstuart@bellsouth.net,Mary,Stuart,null,3414 Angelin Dr,null,Memphis,TN,38135,US,9013868485,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+489,DixieCowgirl_01@hotmail.com,Tara,Pennell,null,101 N. Delaney Rd Apt 4,null,Owosso,MI,48867,US,9896277142,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+490,thompsonjamil903@gmail.com,jamil,thompson,null,1929 willow vale dr,null,Fort Worth,TX,76134,US,8175511319,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+491,richandrena@verizon.net,Deavi,Carbno,null,P.O. Box 3141,null,Running Springs,CA,92382,US,9098674322,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+492,tmactoo@aol.com,Tyler,MacLeod,null,4648 Mountain Snow St,null,Las Vegas,NV,89131,US,7025751956,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+493,lorreebell@yahoo.com,Lorree,Bell,null,18050 Kelly Blvd Apt 807,null,Dallas,TX,75287,US,4695311803,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+494,bfly4life_08@yahoo.com,teresa,clark,null,201ripley rd,null,Cameron,NC,28326,US,9197212764,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+495,kkbturner@live.com,Kesha,Allen,null,75 Riverbend Ln,null,Tifton,GA,31793,US,2294020099,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+496,rickeybanks@mac.com,Rickey,Banks,null,2566 Shallowford Rd.NE #104-370,null,Atlanta,GA,30345,US,4045208870,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+497,dalilia_20@yahoo.com,Samantha,Hernanez,null,1306 Zeneta Ave,null,Odessa,TX,79763,US,4326144657,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+498,field.jasmine@yahoo.com,Jasmine,Field,null,5 sonnet drive,null,Newark,DE,19702,US,3022900543,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+499,cyrojej@yahoo.fr,roseline,bah,null,12 soh st,null,Lincoln,NE,68506,US,5084592211,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+500,binaqkhan@yahoo.com,Mobina,Khan,null,5506 Darschelle Dr.,null,Houston,TX,77069,US,2817701406,null,null,1991,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+501,paulwflynn@yahoo.com,PAUL,FLYNN,null,732 Galaxy Ct,null,Grand Junction,CO,81506,US,9702343596,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+502,mistysam143@aol.com,misty,tripp,null,p o box 846,null,Knightdale,NC,27545,US,9195243413,9193734946,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+503,mike_leigh28@yahoo.com,mike,leigh,null,902 spruillbridge rd,null,Creswell,NC,27928,US,2527979973,null,null,1975,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+504,cheerkris1216@comcast.net,Kristin,Valaitis,null,1756 Red Oak Rd.,null,Williamstown,NJ,8094,US,8567285426,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+505,luvherstyle@yahoo.com,tyneshia,jones,null,11707 martin,null,Warren,MI,48093,US,3135984925,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+507,paula3kj@yahoo.com,paula,huskey,null,141 Mr. Cash Lane,null,Cowpens,SC,29330,US,8642190276,null,1980,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,5/13/2011 10:03
+508,gpop61@netzero.com,daniela,pop,null,10700saline-milan rd.,null,Saline,MI,48176,US,7342310019,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+509,fledmind@yahoo.com,Larry,Phillips,null,314 Murdock Rd,null,Baltimore,MD,21212,US,4103774592,4103775281,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+510,sablemlee@yahoo.com,Sable,Lee,null,6862 Juniper Bay Rd,null,Conway,SC,29527,US,8433336921,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+511,kimba304@yahoo.com,Kimba,Hissom,null,3169 Winwood Dr,null,Nashville,TN,37201,US,6154851400,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+512,knyaohda@yahoo.com,kenya,ojeda,null,3419s.new york ave.,null,Laredo,TX,78046,US,9562362435,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+513,zadriana98@yahoo.com,ADRIANA,RODRIGUEZ,null,6596 MOOSE CREEK ST,null,Las Vegas,NV,89156,US,7025421567,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+514,takhel042007@yahoo.com,antwanne,johnson,null,200 elmira st sw apt.d2,null,Washington,DC,20032,US,2028890652,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+515,gneau@bellsouth.net,Gregory,Neau,null,2818 calumet farm lane,null,Snellville,GA,30039,US,7709726568,6783862728,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+516,darkfoxy@mail.ru,Victoria,Smirnova,null,27 Grant Ave,null,Seaside Heights,NJ,8751,US,7328146226,null,null,2011,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+517,driedlungs@live.com,Jeffry,GO,null,10949 burnet ave,null,Mission Hills,CA,91345,US,8184280245,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+518,nickea206@yahoo.com,nickea,small,null,49 briar mills,null,brick,NJ,null,null,7327319757,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+519,dadyzlilgurl6389@aol.com,Tiarra,Deleon,null,36 Willowbrook Way,null,Mount Holly,NJ,8060,US,6092657732,null,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+520,nicholieolie@yahoo.com,Nichole,McCloud,null,1170 Meridian Circle,null,Harrisonburg,VA,22802,US,5405607436,5402987028,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+521,caleba@fairwaymc.com,caleb,allen,null,po box 3633,null,Coeur D Alene,ID,83816,US,2088181993,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+522,dawnkey69@gmail.com,Dawn,Starr,null,4440 Jack Brown Road,null,Salisbury,NC,28147,US,7046391042,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+523,GATITAYLEONCITO@ATT.NET,Cecilia,Esquivel,null,13806 Anacapa Ave.,null,Gustine,CA,95322,US,2096751795,null,null,1900,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+524,kmt510@verizon.net,Kathleen,Morris-turner,null,1404 Edgartown Court,null,Virginia Beach,VA,23456,US,7574670915,null,null,1960,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+525,brittneharris86@gmail.com,Brittne,Harris,null,720 Park Trail Vista,null,Houston,TX,77019,US,8323626914,8325828604,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+526,mc4csrlp@att.net,Chandra,Mackey,null,106 Canterbury Ct,null,Prattville,AL,36067,US,3344910983,null,null,1985,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+527,emotionaless86@aol.com,Amanda,Trenum,null,1021 Vester St,null,Ferndale,MI,48220,US,2486357230,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+528,LORIHOWELLTN2correctmyemailcom,LORI,HOWELL,null,8693 EAGLE POINT DR,null,Knoxville,TN,37931,US,8657717716,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+529,mm144@nyu.edu,Michele,Minnick,null,3543 Chestnut Ave,null,Baltimore,MD,21211,US,4107534178,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+530,graciaqahumada69@hotmail.com,Gracia,Ahumada,null,313 Archer St,null,Salinas,CA,93901,US,8317586980,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+531,r.dawn44@yahoo.com,Dawn,Richard,null,1416 w. kendall dr,null,San Bernardino,CA,92407,US,9098876108,null,null,1979,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+532,brianamnm@yahoo.com,Marie,Esparza,null,P.O. Box 1790,null,Anthony,NM,88021,US,9157313397,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+533,KELLYSANCHEZ54@YAHOO.COM,KELLY,SANCHEZ,null,8327 FAIR OAKS BLVD APT 17,null,Carmichael,CA,95608,US,9163801306,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+534,beth_ecstacy@hotmail.com,bethany,templeman,null,508 E College Dr,null,Cheyenne,WY,82007,US,3075140413,null,null,1985,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+535,lawless30002000@yahoo.com,william,mattler,null,760 oak,null,Oshkosh,WI,54901,US,9203857698,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+536,coqui05@comcast.net,Aly,Santana,null,2403 Washo Circle,null,Colorado Springs,CO,80915,US,7192195709,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+537,allenfedo@msn.com,allen,fedorowicz,null,3512 E. Tillman Rd,null,Fort Wayne,IN,46816,US,2604173545,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+538,hilda_377@hotmail.com,hilda,perez,null,605 north g st,null,Imperial,CA,92251,US,7604555635,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+539,jraymond94@hotmail.com,Joe,Raymond,null,1111 Houghton Rd.,null,Katy,TX,77450,US,3106216335,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+540,tim@mc.net,Tim,Jesse,null,241 Spring St,null,Algonquin,IL,60102,US,2243458467,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+541,stephaniemichelle914@yahoo.com,stephanie,kelly,null,8100 Cypresswood,null,Spring,TX,77379,US,8324239943,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+542,doris.seldon@yahoo.com,Doris,Seldon,null,Po Box 85,null,Gallion,AL,36742,US,3342892074,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+543,barbara_lewis44@yahoo.com,BARBARA,LEWIS,null,2371 E Sooner Road,null,Blanchard,OK,73010,US,4052647826,null,null,1970,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+544,honeynam93@yahoo.com,Tequila,Hawkins,null,6708 Buhr,null,Detroit,MI,48212,US,3133655830,3132475868,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+545,bossino31@yahoo.com,ROBERT,CROSS,null,1600 Haskell Ave Apt #176,null,Lawrence,KS,66049,US,9132385438,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+546,adriana.almontes92@yahoo.com,Adriana,Almontes,null,609 Don,null,Pasadena,TX,77506,US,7134271882,8326565334,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+547,FANCYWAY2@VERIZON.NET,MARY,WOOTTEN,null,403 circle dr,null,Snow Hill,MD,21863,US,4106322113,null,null,1975,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+548,mansoormajeed2002@yahoo.com,mansoor,majeed,null,6825 Barnett Rd,null,Baltimore,MD,21239,US,4108253528,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+549,anastasia_curtin@yahoo.com,Anastasia,Curtin,null,4 US Route  50 # 4B,null,Ocean View,NJ,8230,US,6096241494,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+550,andreheaston@yahoo.com,Andre,Easton,null,921 S. Springfield Ave,null,Chicago,IL,60624,US,3128909641,null,null,2012,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+551,tmason520@yahoo.com,Tashue,Mason,null,66 Weatherspoon Dr,null,Emporia,VA,23847,US,4346342509,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+552,maria.rojas@ah.org,MARIA,ROJAS,null,177 GLENWOOD RD,null,Elizabeth,NJ,7208,US,9085271164,null,null,1975,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+553,flint.whitesell@luke.af.mil,Flint,Whitesell,null,7221 W Becker Ln,null,Peoria,AZ,85345,US,6233341562,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+554,bluedenitawoods@yahoo.com,denita,woods,null,1695 countryside drive,null,Indianapolis,IN,46231,US,3174929459,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+555,renee_garrett01@yahoo.com,renee,garrett,null,P.O. box 75,null,Gordon,WV,25093,US,3043074262,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+556,jimenez75123@yahoo.com,Santiago,Jimenez,null,27 Oak St,null,Belleville,NJ,7109,US,9738840094,9735087267,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+557,patty.pinkston@hap.com,Dalton,Pinkston,null,231 beech lane,null,Springfield,KY,40069,US,8593369009,8594812211,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+558,dennyp7734@aol.com,JAIME,PILCHER,null,2493 Arrowood Rd,null,Gilmer,TX,75644,US,9037902043,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+559,gracevilla@msn.com,Grace,Reiter,null,10181 Park Run Dr Ste 110,null,Las Vegas,NV,89145,US,7023574927,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+560,maurice@hotmail.com,MAURICE,RICHARDSON,null,829 15TH AVE,null,Phenix City,AL,36867,US,7063936827,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+561,maritzaeunicesolis@yahoo.com,Maritza,Solis,null,258 Robincroft Dr.,null,Pasadena,CA,91104,US,6266766770,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+562,91973286211@needanemail.com,Amelia,Baldwin,null,1908 Altman Rd,null,Hillsborough,NC,27278,US,9197328621,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+563,brisangelrafael@yahoo.com,brisleydi,iglesias,null,2515 Mosby Ct Apt A,null,Harrisonburg,VA,22801,US,5402716881,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+564,fairley_v@yahoo.com,Venita,Fairley,null,212 Martin Luther King Ave.,null,Hattiesburg,MS,39401,US,6015439946,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+565,splab@pacbell.net,suzy,hutchinson,Ms.,726 parkman ave,null,Los Angeles,CA,90026,US,2134846959,null,1965,1983,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,7/24/2012 10:08
+566,hannahkasemi@yahoo.com,Hannah,Kasemi,Ms.,1605 N. brunswick St,null,Sterling,VA,20164,US,5713316030,null,1981,1999,2,TRUE,FALSE,null,TRUE,8/3/2010 10:28,10/9/2012 9:06
+567,lilrottweilin_chik@hotmail.com,Janel,Hamilton,null,4180 Highway 373 Lot149,null,Columbus,MS,39705,US,6622519982,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+568,beckpacans@yahoo.com,rebecca,pacaanas,null,7904 logan run,null,Severn,MD,21144,US,4436886153,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+569,rufiogrl1@msn.com,shannon,felix,null,410 midway ct,null,Upland,CA,91784,US,9095183582,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+570,Camnme2003@aol.com,Nikkole,Knowles,null,8475 Robinson Rd,null,Dayton,VA,22821,US,5402716503,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+571,silentosix@hotmail.com,Marvin,Johnson,null,56 Henderson Rd,null,Holly Springs,MS,38635,US,6628510191,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+572,marycvana@hotmail.com,Mary,Vanalstine,null,10414 Eilola Road,null,Pelkie,MI,49958,US,9063538080,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+573,idkbtech@yahoo.com,Ishmael,Bull,null,32 Mozart Avenue 2nd Fl.,null,Little Falls,NJ,7424,US,9737852325,8625712356,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+574,COURTNEYENRIQUES808@yahoo.com,Nathan,Enriques,null,91-1020 Kupekala St,null,Ewa Beach,HI,96706,US,8086769455,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+575,casacadaniel@yahoo.com,Daniel,Casaca,null,519 Ephesus Rd,null,Forest,MS,39074,US,6014692024,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+576,robin.catron@yahoo.com,Robin,Catron,null,135 Red Bird Ln,null,Hampstead,NC,28443,US,9103401274,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+577,Ladibug166@comcast.net,Connie,Francis,null,6-1/2 Darley Road,null,Claymont,DE,19703,US,6104851928,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+578,dar_lotus_pod420@yahoo.com,nathaniel,hamel,null,1113 elmer st,null,South Bend,IN,46616,US,5749045621,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+579,jonesy112@gmail.com,Michael,Jones,null,3826 Fawn Dr Apt #3C,null,Indianapolis,IN,46254,US,3173661208,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+580,kjbuckhead@bellsouth.net,kimberly,johnson,null,143 Hickory Pt,null,Buckhead,GA,30625,US,7064842648,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+581,samlofberg@yahoo.com,samuel,lofberg,null,111 Capistrano,null,San Francisco,CA,94112,US,3106214054,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+582,sandraevasquez@yahoo.com,sandra,vasquez,null,32510 sprucewood way,null,Lake Elsinore,CA,92532,US,9517462109,3108367000,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+583,shafferhoos@aol.com,Mike,Shaffer,null,7915 W. Co.Rd.1050 S.,null,Paris Crossing,IN,47270,US,8125926029,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+584,chavacornejo1@yahoo.com,nereida,rivera,null,6905 hidden acres dr,null,Cleveland,TX,77328,US,8325772497,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+585,ahilton2008@hotmail.com,Andre,Hilton,null,1842 Broad River Rd,null,Atlanta,GA,30349,US,6784373232,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+586,z71_cruiser@hotmail.com,Jackson,Ten Fingers,null,1601 drywood,null,Oglala,SD,57764,US,6054418422,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+587,laura.as.laura@gmail.com,laura,nordstrom,null,26285 cambodia ave,null,Farmington,MN,55024,US,6514632818,9523817706,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+588,BRYANT66123794651@fixmyemail.com,BRYANT,HEREDIA,null,425 ANNIN AVE,null,Wasco,CA,93280,US,6612379465,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+589,rreiddgaf@yahoo.com,Ryan,Reid,null,9683 Eaglecreek PKWY,null,Commerce City,CO,80022,US,3039976761,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+590,monique.diva1@gmail.com,Monique,Ramirez,null,11872 e cedarvale st,null,Norwalk,CA,90650,US,5624830785,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+591,duaner160@yahoo.com,Duane,Raupers,null,5150 Knox RD,null,Chapmansboro,TN,37035,US,9312410743,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+592,bobbie.boynton@yahoo.com,Bobbie,Boynton,null,2804 Spring Flats Rd,null,Albany,GA,31705,US,2294310010,null,null,1977,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+593,jpsoccerplaya7@aim.com,Joao,Pinto,null,9 valleyview dr,null,Danbury,CT,6810,US,2037436349,2034489277,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+594,rebeca2@cox.net,Rebeca,Galeano,null,20 Via Lucca #D207,null,Irvine,CA,92612,US,9497989620,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+595,rondel_harris@yahoo.com,Rondel,Harris,null,192 hutton street,null,Jersey City,NJ,7307,US,2016734367,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+596,dmlewis828@yahoo.com,denise,lewis,null,649 porter st,null,Houston,TX,77077,US,7606453375,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+597,lml32608@yahoo.com,Leilani,Leadbetter,null,50 Joy Road,null,Rockland,ME,4841,US,2077634107,2079751950,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+598,rlhoskins07@hotmail.com,ryan,hoskins,null,405 hiawatha,null,Somerville,TN,38068,US,9016042378,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+599,junebarfield2006@yahoo.com,June,Barfield,null,406-D Leafmore Rd,null,Rome,GA,30165,US,7062376846,7062341030,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+600,LUISPMORALESTX1@fixmyemail.com,LUIS,P MORALES,null,P O BOX 1244,null,Los Fresnos,TX,78566,US,9564552596,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+601,mjbradl@juno.com,margie,bradley,null,Po Box 160,null,Eagle Creek,OR,97022,US,5036375361,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+602,phartbugy@aol.com,Keith,Shinnall,null,506 S. Lincoln,null,Cabot,AR,72023,US,5014122990,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+603,STEPHANIE26954796831@fixmyemail.com,STEPHANIE,MEYERS,null,1525 ROMENCE RD,null,Portage,MI,49024,US,2695479683,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+604,jhamilton8888@yahoo.com,Jocelyn,Hamilton,null,11461 S 4200 RD.,null,Claremore,OK,74017,US,9183439195,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+605,asmirf769@yahoo.com,Shoua,Lee,null,862 Howard St.,null,Green Bay,WI,54303,US,9206348193,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+606,Puriom_chok1@yahoo.com,pauleen,uehara,null,4922  NE 34th st,null,Vancouver,WA,98661,US,3606945905,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+607,slf716633@aol.com,sherri,deditch,null,7 healthy heights village,null,Morgantown,WV,26508,US,3042414670,null,null,1981,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+608,caramel7287@yahoo.com,Lenora,Britten,null,2063 Amir Dr,null,Baton Rouge,LA,70816,US,5049136773,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+609,Marcos163@msn.com,Marcos,Garcia,null,2595 Catalpa,null,Pomona,CA,91766,US,9097627468,9097062605,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+610,jamiefulton@ymail.com,jamie,fulton,null,1310 hampton hill ct,null,Lawrenceville,GA,30044,US,4045524904,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+611,sweetie_babey@yahoo.com,Ireta,Sakurada,null,140 Jackson Rd,null,Winnemucca,NV,89445,US,7753045508,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+612,bbszoo1@aol.com,Becky,Henderson,null,2804 Nantucket Lane,null,Edmond,OK,73013,US,4052169954,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+613,jbxjb2206@hotmail.com,jessica,Budge,null,10308 W. WIndsor Blvd,null,Glendale,AZ,85307,US,6237727376,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+614,gladis37@hotmail.com,CHRISTIE,SENTENO,null,1427 SOUTH CONCORD STREET,null,Salt Lake City,UT,84105,US,8018095256,null,null,1984,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,12/6/2012 17:40
+615,eyansmom@yahoo.com,Angelica,Wilson,null,Rr 2 Box 2821,null,Jonesville,VA,24263,US,2763464159,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+616,joker_nexus@hotmail.com,Chantale,Jones,null,2022 Bertha st,null,Winston Salem,NC,27107,US,4072324431,null,null,1970,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+617,grahamwilliam447@gmail.com,William,Graham,null,1515 Columbine Blvd.,null,Colorado Springs,CO,80907,US,7196330967,null,null,1991,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+618,mokled@gmail.com,hesham,mokled,null,53 n willow st,null,Montclair,NJ,7042,US,9736412815,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+619,trinity_2006@msn.com,zach,clark,null,5629 wooded lake drive,null,Louisville,KY,40299,US,5022400036,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+620,jcandelaria@wyndham.com,Kara,Ruiz,null,221 Georgetowne Drive,null,Hyde Park,MA,2136,US,6179538227,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+621,jlkramoski@att.net,Jennifer,Francisco,null,70 2ND ST,null,La Salle,IL,61301,US,8153443769,null,null,2008,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,10/9/2012 14:16
+622,ADEBUNMIADEDIGBAMD1@fixmyemail.com,ADEBUNMI,ADEDIGBA,null,14104 BRAMBLE CT APT 104,null,Laurel,MD,20708,US,3016043186,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+623,clearlabelrecords@gmail.com,Tajai,Massey,null,2108 41st Avenue,null,Oakland,CA,94601,US,5103769345,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+624,dfriedhoff336@aol.com,donna,nicole,null,383 weldon painter road,null,Timberlake,NC,27583,US,3363641729,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+625,curtisengl@yahoo.com,harold,english,null,1925 newark,null,Grand Rapids,MI,49507,US,6163348225,null,null,1991,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+626,arlene0589@email.com,Madeline,Ralegh,null,805 N Mount Shasta Blvd,null,Mount Shasta,CA,96067,US,5309262541,5309262587,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+627,nrcolef@yahoo.com,nicole,fleson,null,206 s 19th ave,null,Maywood,IL,60153,US,7086811976,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+628,bcrute1224@yahoo.com,Broderick,Crute,null,1014 Hudddersfield Drive,null,Sumter,SC,29154,US,8039834085,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+629,uofahomecatsno1@aol.com,Fransico,Castro,null,4444 E Benson Hwy,null,Tucson,AZ,85706,US,5205741143,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+630,doneeshaross@hotmail.com,doneesha,ross,null,650 post place,null,East Saint Louis,IL,62205,US,6188755230,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+631,SUSANA_JANETH_rODRIGUEZ@HOTMAIL.COM,leonel,silva,null,8080  51st ave apt#243,null,Glendale,AZ,85302,US,6023489893,6232068201,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+632,CALEBWALLACEGA1@fixmyemail.com,CALEB,WALLACE,null,102 SOUTH AVE,null,Sparks,GA,31647,US,2292378598,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+633,georgiah216@gmail.com,georgia,hancock,null,737 eva st,null,Memphis,TN,38112,US,9013247321,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+634,melani199@yahoo.com,Melinda,Burch,null,53 Rosewood Ave  Apt 4,null,Waterbury,CT,6706,US,2035274096,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+635,steeledesmarais@hotmail.com,Barrack,Obama,null,1600 Pennsilvania,null,Sunnyside,WA,98944,US,5098362601,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+636,tcstatzer@comcast.net,Austin,Strange,null,6712 Panther Way,null,Indianapolis,IN,46237,US,3177971484,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+637,jorge-lezcano@hotmail.com,gorge,lezcano,null,15130 georgia road,null,Woodbridge,VA,22191,US,7034999067,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+638,adamsjames43@yahoo.com,james,adams,null,7175 moon rd apt 104,null,Columbus,GA,31909,US,9107891824,9107891518,1990,2009,null,TRUE,TRUE,null,TRUE,8/3/2010 10:28,5/15/2011 15:15
+639,qmgwylpmom@hotmail.com,feifei,Lan,null,1731 18th Ave,null,San Francisco,CA,94122,US,4154568879,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+640,oihanaholomua@yahoo.com.au,Bethan,Baptista,null,310 Apana Road,null,Kapaa,HI,96746,US,8084874048,null,1951,1969,null,TRUE,FALSE,null,null,8/3/2010 10:28,5/13/2011 10:05
+641,garzaelissa@yahoo.com,Elissa,Garza,null,5644 n. 72nd dr,null,Glendale,AZ,85303,US,6233992512,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+642,bakerboy143@hotmail.com,Matthew,coulter,null,6730 139th place sw,null,Edmonds,WA,98026,US,4253596871,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+643,heatherwilliams726@gmail.com,Heather,Williams,null,11280 Engleside St,null,Detroit,MI,48205,US,3133728238,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+644,shortman0956@yahoo.com,brandon,williams,null,1001 cooper lane,null,Hyattsville,MD,20784,US,2037859867,2035899698,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+645,ewvahillbilly@msn.com,Eric,Estep,null,103 bluegrass ln,null,Hurricane,WV,25526,US,3046901272,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+646,1379@sbcglobal.net,danielle,dailey,null,8919 meadow vista rd,null,Charlotte,NC,28213,US,2035269448,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+647,mamarjak@yahoo.com,Marjan,Sharokhani,null,3203 Windsor Park Ct,null,Englewood,NJ,7631,US,2014084852,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,5/13/2011 10:03
+648,pdammond@yahoo.com,porsha,dammond,null,14924 olmsted dr,null,Denver,CO,80239,US,7202519897,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+649,kirshot76@aol.com,Kirsten,Woomer,null,rr2 box 115,null,New Martinsville,WV,26155,US,3044553944,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+650,kennardking@yahoo.com,Kennard,King,null,413 Dallas Ave,null,Selma,AL,36701,US,3348729507,null,1979,1996,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/17/2011 22:15
+651,jmakuyu@gmail.com,JACOB,CHWEYA,null,2201 ROCKBROOK DR APT # 811,null,Lewisville,TX,75067,US,9723168647,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+652,javedwardak@yahoo.com,javed,hakimyar,null,64 swrphmore court,null,Pemberton,NJ,8068,US,5082925499,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+653,willsivley595@aol.com,Cinda,Sivley,null,208 Little River 143,null,Ashdown,AR,71822,US,8705427771,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+654,eg.1943@hotmail.com,Edwina,Gray,null,183 Mcnary ave nw,null,Salem,OR,97304,US,5033838190,null,null,1965,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+655,rulocall@ymail.com,Rau,Garcia,null,null,null,Fontana,CA,92335,US,9094286510,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+656,dana_v68@yahoo.com,Dainah,Vaughn,null,614 9th Ave Sw,null,Attalla,AL,35954,US,2566132681,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+657,taleshajack@yahoo.com,Talesha,Jackson,null,1334 Stonerace Dr. Apt. J,null,Stone Mountain,GA,30083,US,7708641552,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+658,marciapaixao05@yahoo.com,Rita,Paixao,null,11 cottage  st. first floor,null,Danbury,CT,6810,US,2037919806,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+660,KimiKorpse@aol.com,Kimberly,Clay,null,1384 Webb Gin House Road,null,Lawrenceville,GA,30045,US,4044297990,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+661,pbrown5036@email.vccs.edu,pinkey,brown,null,3704 peppercorn way,null,Chesapeake,VA,23321,US,7576869237,null,null,2011,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+662,tina1005@yahoo.com,Tina,Triplett,null,1644 winkle rd,null,Goshen,NC,28697,US,3366672769,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+663,dav_arg@yahoo.com,Iuliana,Arghir,null,398 W Wilson #D108,null,Costa Mesa,CA,92627,US,9492871489,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+664,GONZALEZALEXANDRA83@YAHOO.COM,ALEXANDRA,GONZALEZ,null,1810 CAROLINE AVE APT# K-205,null,Junction City,KS,66441,US,7855795097,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+665,bigpose2007@aol.com,Joshua,Posey,null,713 Woodland Ct,null,Kennedale,TX,76060,US,8177141838,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+666,christmas200835@aol.com,Shawn,Sweeney,null,51335 america drive,null,Belleville,MI,48111,US,7344854188,7344854100,1900,1994,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/14/2011 21:31
+667,MK-MKJR-AM76@yahoo.com,AnnMarie,Curro,null,285 Parnell Road,null,Hubert,NC,28539,US,7275013004,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+668,ANGIED104@HOTMAIL.COM,ANGELA,ANTOLIN,null,538 W 2ND ST,null,San Pedro,CA,90731,US,3109845197,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+669,edhpumpkin@netzero.com,emily,ard,null,112 village drive east,null,New Albany,IN,47150,US,5028211614,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+670,Lj206@aol.com,Lizzie,Jones,null,617kennedy st ne,null,Washington,DC,20011,US,2025293509,2024861147,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+671,mszipster@yahoo.com,April,Dippolito,null,20343 Acapulco Cove Drive,null,Humble,TX,77346,US,9194782415,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+672,lhscheer@yahoo.com,Ashley,butler,null,15800 Custer Trail,null,Frisco,TX,75035,US,2142935400,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+673,fabiosanchezr@hotmail.com,Gina (alejandro),sanchez,null,3323 raintree village dr,null,Katy,TX,77449,US,2816469303,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+674,irina_tischenko@yahoo.com,Irina,Tischenko,null,1052 Via Prato Lane,null,Henderson,NV,89011,US,7023555539,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+675,gwclass2008@yahoo.com,Aurelia,Holmes,null,1525 12th Street North,null,Birmingham,AL,35204,US,2053223458,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+676,thesecretwar@yahoo.com,Douglas,Wilson,null,3282 Fullerton St,null,Detroit,MI,48238,US,3138698509,3138688509,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+677,doe_kim@yahoo.com,joyce,kim,null,25781 kaiser pl,null,South Riding,VA,20152,US,7038676262,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+678,THOMAS8433438064,THOMAS,SIMMONS,null,1840 carriage ln  APT 34B,null,Charleston,SC,29407,US,8433438064,8435687110,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+679,info@csaservices.biz,Andrea j.,alfonso,null,2306 almaden rd,null,San Jose,CA,95125,US,4086615363,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+680,marquee1@bellsouth.net,veronica,fuget,null,4145 ringgold road 72-g,null,Chattanooga,TN,37412,US,4233553530,null,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+681,nmakhluf@aol.com,Nora,Makhluf,null,340 S La Fayette Park Pl Apt 103,null,Los Angeles,CA,90057,US,8182096373,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+682,ERICA91926231721@fixmyemail.com,ERICA,COPLEY,null,2885 OLD US 70,null,Clayton,NC,27520,US,9192623172,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+683,qtmorales001@yahoo.com,Leonora,Morales,null,908 Broad Ave,null,Wilmington,CA,90744,US,3103032282,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+684,jd_farrell40@yahoo.com,John,Farrell,null,9 Winterberry Court,null,La Plata,MD,20646,US,3013923486,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+685,violetsenn@yahoo.com,violet,senn,null,705 old graniteville hwy,null,Aiken,SC,29801,US,8036636847,8032153345,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+686,tinababe427@aol.com,christina,companik,null,110 anns farm road,null,Hamden,CT,6518,US,2034150849,2032888202,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+687,danelle.diaz@cdcr.ca.gov,Danelle,Diaz,null,4741 A Parkway,null,Sacramento,CA,95823,US,9162367528,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+688,obliviousspider@yahoo.com,kim,baker,null,498 Apple St,null,Westland,MI,48186,US,7349458506,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+689,kriegsgeist@hotmail.com,francis,steitz,null,219 Lower Rd,null,Brewster,MA,2631,US,6174127650,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+690,sessumstowel@yahoo.com,Jack,Sessums,null,1306 irving st,null,League City,TX,77573,US,2813166076,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+691,enriquej1272@hotmail.com,Rosa,Jimenez,null,10641 Allegheny Pass,null,Huntley,IL,60142,US,8479616636,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+692,KRISTA4235394835,KRISTA,STANLEY,null,POBOX649,null,Huntsville,TN,37756,US,4235394835,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+693,biretbrit@hotmail.com,Biret,Bogoslovsky,null,18826 Malden Street,null,Northridge,CA,91324,US,8183491064,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+694,lonly_momma_bear_42@yahoo.com,Brenda,Martin,null,404  East Mason,null,Owosso,MI,48867,US,5178197557,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+695,lisa@moon.hotmail.com,Lisa,Conley,null,po box 159,null,Dorton,KY,41520,US,6066396211,null,null,1982,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+696,enhowe22@yahoo.com,willie,mcdaniel,null,46860 Hilton Drive,null,Lexington Park,MD,20653,US,3012479963,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+697,kenney46@yahoo.com,joetha,kenney,null,800 simmons st,null,Marion,SC,29571,US,8434231899,null,null,1965,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+698,prossiet@yahoo.com,Prossie,Lockett,null,17850 85th PL NE,null,Bothell,WA,98011,US,2063518701,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+699,xiomara8908@hotmail.com,Jenny,Reyes,null,1425 T St NW,null,Washington,DC,20009,US,2024159114,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+700,whitneymgomez@yahoo.com,whitney,hernandez,null,3715 s illinois,null,Caldwell,ID,83605,US,2089654047,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+701,red.neck.23@hotmail.com,Walter,Weatherholtz,null,3007 Mattox Dr,null,Chesapeake,VA,23325,US,7575430729,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+702,wootrell@yahoo.com,glen,hall,null,5691 howell park ave.,null,Baton Rouge,LA,70805,US,2255723842,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+703,mjackfit@comcast.net,Maryann,Jackson,null,13463 Photo Drive,null,Woodbridge,VA,22193,US,7035901830,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+704,babydonna2007@yahoo.com,Donna,Evans,null,3020 Border st.,null,Birmingham,AL,35208,US,2057882002,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+705,oleo59@peoplepc.com,Terry,Olson,null,1410 St Marie Drive,null,Houma,LA,70364,US,9856884592,null,null,1960,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+706,frogger7995@msn.com,SHARON,CALDWELL,null,3256 SUMMER TRAIL DRIVE,null,West Valley City,UT,84120,US,8015606424,8019671519,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+707,rachelallisonhenry@yahoo.com,Rachel,Henry,null,5723 north 98th street,null,Milwaukee,WI,53225,US,4147638310,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+708,akarabit209@hotmail.com,Eric,Vandergoltz,null,923 Byor Ln #c,null,Modesto,CA,95351,US,2098182185,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+709,kent_mcconkey@yahoo.com,Kent,McConkey,null,1540 Lakeview Drive,null,Keller,TX,76248,US,8175645032,null,null,1977,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+710,frannyliinzy08@sbcglobal.net,Franceska,Linzy,null,12243 Washington Ave.,null,Blue Island,IL,60406,US,7089695463,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+711,c.smith_68@yahoo.com,Clara,Smith,null,2114 Riding Crop Way,null,Baltimore,MD,21244,US,4109440796,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+712,crdilling@aol.com,Christina,Rollins,null,3108 York Farms Rd,null,York,SC,29745,US,8034176761,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+713,ed_gonzales2002@yahoo.com,Ed,Gonzales,null,2117 f street,null,Washougal,WA,98671,US,3608352572,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+714,wildlady217@aol.com,Virginia,Strange,null,110 Pineburr Dr,null,Columbia,LA,71418,US,3186499236,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+715,parvinnazari@sbcglobal.net,Parvin,Nazari,null,5375 Lake Crest Dr,null,Agoura Hills,CA,91301,US,8188791351,null,null,1981,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+716,hawe0022@umn.edu,Daniel,Hawes,null,640 fillmore st ne,null,Minneapolis,MN,55413,US,2022814565,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+717,keeverIII@bresnan.com,Johnna,Keever,null,308 Alamosa Ave.,null,Alamosa,CO,81101,US,7195898408,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+718,jreid@mailpuppy.com,Chidimm a,Chidimma,null,4213 Northwind Dr,null,Ellenwood,GA,30294,US,4042120539,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+719,courtney.holmes@rocketmail.com,COURTNEY,HOLMES,null,5989 LAKE CREST WAY,null,Sacramento,CA,95822,US,9168212499,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+720,donaldjeet@hotmail.com,donald,jeet,null,1755 Bayshore Hwy,null,Burlingame,CA,94010,US,6506975736,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+721,msxwoman1967@yahoo.com,Gloria,Navarro,null,1540 Daisy Ave,null,Rockford,IL,61107,US,8159624262,null,null,1985,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+722,rreese08@tds.net,Robin,Reese,null,145 State St,null,Neenah,WI,54956,US,9207200882,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+723,beautiful78210@yahoo.com,Savannah,Rose,null,1444 Aransas,null,San Antonio,TX,78210,US,2103966287,2105345404,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+724,tenecha.dorsey@yahoo.com,Tenecha,Dorsey,null,No Address,null,Baltimore,MD,21215,US,4109639534,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+725,jennymorales92@yahoo.com,Jenny,Morales,null,1420 Leith Ave,null,Waukegan,IL,60085,US,8472049364,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+726,arhnbell@yahoo.com,Amanda,Hernandez,null,11614 W.PalmbrookDr,null,Avondale,AZ,85323,US,6233992041,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+727,smallsssmalls@aol.com,SEQUOYA,fajota,null,5353 WEBLIN FARM RD,null,Virginia Beach,VA,23455,US,7572029396,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+728,maria_la_del_barrio27@yahoo.com,Maria,Madera,null,1403 Scoville Ave,null,Berwyn,IL,60402,US,7084844719,null,null,1981,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+729,1987z28@live.com,Jonathan,Chadwick,null,455 Pleasant Valley Rd,null,Spartanburg,SC,29307,US,8644946948,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+730,carlosmoya4510@yahoo.com,Carlos,Moya,null,317 Decatuc St Nw,null,Washington,DC,20011,US,2022916630,null,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+731,carlosdevondavis@yahoo.com,carlos,davis,null,536 walnut st,null,Roanoke Rapids,NC,27870,US,2525862870,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+732,lilsuperman2202@yahoo.com,tonio,moore,null,2232 dayton,null,Muskegon,MI,49444,US,2317397308,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+733,martinbarrios@att.net,Jose,Barrios,null,622 E 138th St,null,Los Angeles,CA,90059,US,3102170541,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+734,wafa.hasan71@gmail.com,Wafa,Hasan,null,905 W Ash Ln,null,Euless,TX,76039,US,4693354722,null,1971,1989,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,10/20/2012 2:40
+735,mandyleewatson@hotmail.com,Mandy,Watson,null,1333 S. Jefferson St,null,Hastings,MI,49058,US,2699484226,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+736,janmai20@yahoo.com,Adrian,Esteban,null,238 East Street,null,New Britain,CT,6051,US,8608328443,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+737,randy_purnell@yahoo.com,randy,purnell,null,18937 madison ave,null,Castro Valley,CA,94546,US,5103166904,null,null,1986,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+738,Likestodance@msn.com,Nicole,Schwartz,null,1921 Sapphire Way,null,El Dorado Hills,CA,95762,US,9169908795,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+739,hyadav@carolina.rr.com,babul,chawda,null,2004 solway ln.,null,Charlotte,NC,28269,US,7047170123,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+740,jayne.romyn@gmail.com,Jayne,Romyn,null,7870 Grasmere Dr,null,Boulder,CO,80301,US,9097096142,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+741,bornornorman@yahoo.com,bornor,norman,null,146 penwick circle,null,Frederick,MD,21702,US,3016946185,3012282249,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+742,finnah82@gmail.com,ramatu,koroma,null,4744 kenmore ave,null,Alexandria,VA,22304,US,7039536575,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+743,dogattack.1surviver@yahoo.com,Heather,Jarvis,null,33 walbridge rd,null,Louisa,KY,41230,US,6066731274,null,null,2011,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+744,valerieharkness@yahoo.com,Valerie,Harkness,null,13708 Lillian St.,null,Omaha,NE,68138,US,7202496260,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+745,rjameskaren@yahoo.com,karen,james,null,17084 Brooklane Blvd.,null,Northville,MI,48168,US,2484495366,null,null,1979,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+746,nikhil12.08@gmail.com,Kumar,Nikhil,null,1330 OLD SPANISH TRAIL,null,Houston,TX,77054,US,4049069133,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+747,brad118@cox.net,diane,ellis,null,118 bernice marie,null,Mulvane,KS,67110,US,3167068181,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+748,mmmmkritz@yahoo.com,maribel,kritz,null,11 Apache trail,null,Rockaway,NJ,7866,US,9735862290,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+749,yonell25@yahoo.com,Xiovana,Mohammad,null,1310-B Chips Drive,null,Killeen,TX,76549,US,2544664590,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+750,jimspencer741@yahoo.com,James,Spencer,null,18654 Prairie Crossing Dr,null,Noblesville,IN,46062,US,3177706467,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+751,Tracy_l_1972@yahoo.com,Tracy,Lyons,null,P.O. Box 571,null,Owingsville,KY,40360,US,6067683359,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+752,jsnake881@yahoo.com,Jacob,Frandsen,null,5692 west load avenue,null,Salt Lake City,UT,84118,US,8016544745,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+753,JERMILE2144409852,JERMILE,CARR,null,13030 AUDELIA RD,null,Dallas,TX,75243,US,2144409852,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+754,lplexy9@gmail.com,Lorie,Phillips,null,195 Private Road 1634,null,Stephenville,TX,76401,US,2544130712,null,null,1978,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,11/14/2012 12:56
+755,emarshall@yahoo.com,eric,marshall,null,1251pleasenthill gate,null,Waukegan,IL,60085,US,2245483152,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+756,sebelius89@yahoo.com,Brittney,Sebelius,null,1014 E Washington St,null,Washington,IA,52353,US,3196534526,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+757,davidfellowshipnnow@yahoo.com,lynele,Wright,null,749 dixwell ave.,null,New Haven,CT,6511,US,2035072850,null,null,1975,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+758,tamaradrazic004@yahoo.com,TAMARA,DRAZIC,null,3915 HILLCROSS DR,null,Louisville,KY,40229,US,5029626942,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+759,paula_chapa@sbcglobal.net,Paula,Chapa,null,4812 Walnut St,null,Mcallen,TX,78501,US,9566182500,null,null,1971,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+760,damadiel1@yahoo.com,christopher,jones,null,2028 6th Ave Se,null,Albany,OR,97321,US,5419178918,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+761,Jkenia96@yahoo.com,Kenia,Jimenez,Mr.,3728 W Delhi Ave,null,North Las Vegas,NV,89032,US,7024601526,null,null,2008,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,12/30/2012 23:18
+762,karenbautista88@hotmail.com,Leo,Bautista,null,8505 Ivoryton Way,null,Montgomry Vlg,MD,20886,US,3013306226,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+763,yeimifree@gmail.com,Yeimi,Free,null,1033 Stannage Ave.,null,Albany,CA,94706,US,5105281950,5104998007,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+764,hellzangel48867@yahoo.com,Stephanie,Goetterman,null,637 Corunna Ave,null,Owosso,MI,48867,US,9897251981,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+765,distefanodebra@yahoo.com,Debra,DiStefano,null,218 Wild Plum,null,San Marcos,TX,78666,US,5123921763,null,1952,1980,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,7/24/2012 10:08
+766,juliejetter@gmail.com,Julie,Sawyer,null,1078 Blue Hill Ave,null,Milton,MA,2186,US,4843691351,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+767,maggieholden@hotmail.com,Maggie,Holden,null,9732 Rainier Circle,null,Huntington Beach,CA,92646,US,7149656713,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+768,adam_lauren_7@yahoo.com,Adam,Riddle,null,1504 Ann Rd.,null,Lawrenceburg,TN,38464,US,9317629725,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+769,swamp4ever@aol.com,Lynwood,Perry,null,5218 Aime Street North East,null,Washington,DC,20019,US,3012047634,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+770,ivansotelo897@aol.com,Ivan,Sotelo,null,6718 Kenwell St,null,Dallas,TX,75209,US,2143580421,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+771,angeliajackson@yahoo.com,Angelia,Jackson,null,3425 Mt. Mariah Rd.,null,Lisman,AL,36912,US,2053983286,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+772,aharbour1@yahoo.com,Amanda,Harbour,null,6550 Valdez Drive,null,Mobile,AL,36608,US,2513440859,2514211517,null,1900,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+773,henryanddessie@ymail.com,DESSIE,LOTT,null,209 E HEIGHTS,null,Ft Worth,TX,76112,US,8177079273,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+774,t-farrer@hotmail.com,trina,farrer,null,21801 hwy 5,null,Hot Springs Village,AR,71909,US,5013264304,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+775,patandab@msn.com,Steve,Sessions,null,3753 Cemetary Rd,null,Pine,AZ,85544,US,9284762224,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+776,goose7789@yahoo.com,Christopher,Hoffman,null,315 Twilley St,null,Norfolk,VA,23503,US,7579655173,7572142099,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+777,nessa_d11@yahoo.com,Vanessa,Dutra,null,60 Bridle Path Cir apt.723,null,Randolph,MA,2368,US,7818850955,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,6/30/2011 13:10
+778,Celes_Phillip@yahoo.com,Celestina,Phillip,null,2867 Royal Path ct,null,Decatur,GA,30030,US,4049062042,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+779,adimes1974@hotmail.com,Antonia,Imes,null,696 Mock Street,null,Winston Salem,NC,27127,US,3367221127,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+780,banita.bryant@sbcglobal.net,Banita,Bryant,null,420 E. Railroad st Apt 2,null,Dowagiac,MI,49047,US,2694052014,null,1987,2005,99,TRUE,FALSE,null,null,8/3/2010 10:28,5/13/2011 10:02
+781,Sk8erSlim2s@msn.com,Shauna,Spadaro,null,3022 Baltimore Avenue,null,Pueblo,CO,81008,US,7192168826,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+782,tayzialowenstein@yahoo.com,tayzia,lowenstein,null,1143 harvard st C,null,Santa Monica,CA,90403,US,9096412755,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+783,taylor@optonline.net,Kevin,taylor,null,245 Voorhees Street,null,Teaneck,NJ,7666,US,2013575241,null,null,1979,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+784,mulle.2009@yahoo.com,mulualem,kelkaye,null,4625 5th ste,null,Washington,DC,20011,US,2027028882,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+785,SANDRA75762351481@fixmyemail.com,SANDRA,SMALLWOOD,null,2615 MARLBORO AVE,null,Norfolk,VA,23504,US,7576235148,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+786,lackai@yahoo.com,Brandon,Pantuso,null,null,null,Roswell,NM,88203,US,5755514830,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+787,espoir_20052003@yahoo.fr,meriem,dehri,null,104 west glenwood ave,null,Wildwood,NJ,8260,US,6097290960,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+788,my1boys@yahoo.com,angela,brining,null,11 roca lane unit 2,null,Martinsburg,WV,25401,US,3046167361,3042645101,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+789,ebatt241@hotmail.com,Eric,Batts,null,638 Prince Williams St,null,Reidsville,NC,27320,US,3362338826,3362402361,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+790,sueellen_crawford@yahoo.com,SueEllen,Crawford,null,2801 Cobblestone Blvd,null,Fayetteville,GA,30214,US,4047873103,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+791,JSGamfamily@msn.com,John,Sgambato,null,124 Johnson Rd,null,Foster,RI,2825,US,4013975855,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+792,fan67cam_77@yahoo.com,Wade,Cote,null,17b Woodland Ave,null,Old Orchard Beach,ME,4064,US,2072867827,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+793,lisamariecatalina@yahoo.com,Lisa,Alexander,null,2365 Lone Oak Lane,null,Vista,CA,92084,US,7609179375,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+794,dauis300@yahoo.com,Nicandro,Loquellano,null,5301 Cilantro Pl,null,San Antonio,TX,78238,US,9564457987,7322343004,1954,1971,2,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/16/2011 19:36
+795,taycaton@gmail.com,Taylor,Henry,null,2220 Westridge Ave. West L201,null,Tacoma,WA,98466,US,8586744931,null,null,1900,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+796,skidooup@aol.com,Lenny,Dault,null,2723 Middle Lake Rd.,null,Twin Lake,MI,49457,US,2317500145,null,null,1982,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+797,dymondprincess03@yahoo.com,Martisha,White,null,8800 Thomas St,null,Sherwood,AR,72120,US,5016390011,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+798,jerry@hotmail.com,Joe,Bob,null,444 Avenida Presidio,null,Walnut,CA,91789,US,null,null,1980,2002,0,TRUE,FALSE,null,null,8/3/2010 10:28,7/18/2011 23:20
+799,minesawyer@ymail.com,lena,sawyer,null,2984 damson,null,Detroit,MI,48207,US,3134242571,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+800,jabril1962@hotmail.com,Cathy,Abril,null,1629 E Garfield,null,Phoenix,AZ,85006,US,6028036171,6023231484,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+801,qawm@hotmail.com,quentin,molyn,null,23 luscombe lane,null,Sandwich,MA,2563,US,5085393466,null,null,1972,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+802,baileytwin2@yahoo.com,kimberly,bailey,null,2280 pondville rd,null,Brent,AL,35034,US,2059265029,2059280570,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+803,eranpise@yahoo.com,Ella,Ranpise,null,1545 Woods Rd Apt 205,null,Winston Salem,NC,27106,US,7406107165,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+804,MACHSHOP@INDEPENDENTCAN.COM,THOMAS,OWSIANIECKI,null,1300 BRASS MILL RD.,null,Belcamp,MD,21017,US,4102720090,null,null,1966,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+805,jromjenine76@aol.com,Jenine,Roman,null,194 Fillmore Street,null,New Haven,CT,6513,US,2037720133,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+806,SOUFIANE4048446417,SOUFIANE,NACIRI,null,1142 bunebin trl,null,Woodstock,GA,30188,US,4048446417,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+807,www.daytonalford@yahoo.com,Dayton,Alford,null,5552 petite point,null,Lithonia,GA,30058,US,6784372086,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+808,ktfallenangel91@yahoo.com,kristen,taylor,null,125 mathews lane,null,Clayton,NJ,8312,US,6092206080,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+809,AButterfly87@sbcglobal.net,Ashley,Charvet,null,1063 Columbus Dr.,null,Milpitas,CA,95035,US,4082635306,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+810,kidadah27@yahoo.com,Kidadah,Douglas,null,825 S. Dobson Rd. #250,null,Mesa,AZ,85202,US,4802445372,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+811,krazyboi55@yahoo.com,robert,asad,null,5673 lakeview road,null,Springfield,TN,37172,US,6156796370,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+812,pedigree8569@hotmail.com,Luis,Pon,null,364 SW Nancy Cir,null,Gresham,OR,97030,US,5037848225,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+813,renepiraino@hotmail.com,Rene,Piraino,null,1652  W. Broadway,null,Anaheim,CA,92802,US,7146356561,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+814,liv2202@yahoo.com,Olivya,Valla,null,6218 s 72nd ave,null,Ralston,NE,68127,US,4025976610,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+815,xstylexsoosiikx@yahoo.com,ashley,hughes,null,911 alligator road,null,Effingham,SC,29541,US,8436622053,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+816,wiseminister@reborn.com,Brent,Craig,null,866 n hockaday road,null,Gladwin,MI,48624,US,9894290086,null,null,1968,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+817,pigwomen@yahoo.com,Bryan,Jones,null,1741 Kingsgate Dr,null,Crofton,MD,21114,US,4108974865,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+818,feg1282@yahoo.com,Faren,Gentry,null,237 Karen Circle,null,Winston Salem,NC,27105,US,3369714165,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+819,jessicahart7@yahoo.com,Jessica,Hart,null,353 E BENWOOD ST,null,Covina,CA,91722,US,6267050613,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+820,KeithMerchant@rocketmail.com,Keith,Merchant,null,7505 wikes st.,null,Detroit,MI,48210,US,3134575493,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+821,jadebaul@ymail.com,Jade,Baul,null,1828 paul quinn,null,Houston,TX,77091,US,2817068787,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+823,anthony_bavero@yahoo.com,Anthony,Bavero,null,413 lucada st,null,Santa Paula,CA,93060,US,8056125386,8053922027,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+824,emilysuzanne08@hotmail.com,Emily,Kouvelos,null,419 West Park Ave,null,Opp,AL,36467,US,3344936705,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+825,trudismcgee@hotmail.com,Trudy,Ferrell,null,3545 Springfield Dr.,null,Charleston,WV,25306,US,3049252639,null,null,1970,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+826,ddc421@comcast.net,Deanna,Conrad,null,9041 Parkwood St,null,Belleville,MI,48111,US,7348655541,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+827,ejk1962@hotmail.com,Earl,Kendall,null,512 Willinson Ln,null,White House,TN,37188,US,6156722968,null,null,1981,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+828,bettybop51855@hotmail.com,betty,jutzi,null,2156 Holiday Ln,null,Evansville,IN,47711,US,8124531392,null,null,1973,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+829,jasser83@windowslive.com,Jasser,Aljuraiban,null,9555 Reseda Blvd,null,Northridge,CA,91324,US,8185271544,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+830,sabrinabynes@aol.com,Sabrina,Bynes,null,47061 Sorrel DrL,null,Lexington Park,MD,20653,US,3017372863,null,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+831,shawstein@aol.com,Bradley,Yarbrough,null,99 South Elliott road,null,Chapel Hill,NC,27514,US,9194710413,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+832,Lewez32@yahoo.com,Lewis,Johnson Jr.,null,223 fairfield st Apt. L1,null,New Haven,CT,6515,US,2035351543,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+833,mrmorrisseymike@gmail.com,Michael,Morrissey,null,4086 Georgia St. #1,null,San Diego,CA,92103,US,6192948136,null,null,1991,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+834,sjwhite7@gmail.com,Sandra,White,null,115 Easton Ave.,null,O Fallon,IL,62269,US,6185091145,null,null,1900,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+835,april_itcd@yahoo.com,April,McGee,null,1935 meadowbrook drive apt 1005,null,Huntsville,AL,35803,US,2566319845,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+836,harleygrl27x@aol.com,Crystal,Larson,Ms.,200 W 10th Ave,null,Mitchell,SD,57301,US,6052920856,null,1978,1997,99,TRUE,TRUE,null,TRUE,8/3/2010 10:28,7/24/2012 10:08
+837,amcr@sbcglobal.net,Alicia,Rich,null,70 Rocky Rest Rd,null,Shelton,CT,6484,US,2039440145,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+838,lrn_mar@yahoo.com,Lorena,Mar,null,416 E 1st,null,Hutchinson,KS,67501,US,6208998825,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+839,ROXANN_DEJOLIE@YAHOO.COM,roxann,dejolie,null,1944 w thuderbird rd,null,Phoenix,AZ,85023,US,6023870390,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+840,stayfly2600@gmail.com,Jovan,Bravo,null,8567 Kelley Dr,null,Stockton,CA,95209,US,2094778940,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+841,lilshortie46920@hotmail.com,Sara,Watson,null,5605 Comstock Ave,null,Kalamazoo,MI,49048,US,2693831915,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+842,studiosixten@gmail.com,Justin,Bellows,null,434 N Mill St,null,Saukville,WI,53080,US,2623881500,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+843,mimina_encarnacion@hotmail.com,Carmin,Encarnacion,null,19 monsignor reynolds way apt 267,null,Boston,MA,2118,US,8573122327,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+844,princess_51506@yahoo.com,Mercedes,Worcester,null,64632 Airport Rd.,null,Happy Camp,CA,96039,US,5416219230,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+845,0onicko0las@yahoo.com,Delores,Johnson,null,6037 Wainwright Dr,null,Richmond,VA,23225,US,8042697609,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+846,benitahudson77@yahoo.com,Benita,Hudson,null,944oldwashingtonrdApt4,null,Thomson,GA,30824,US,7065954253,null,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+847,rachel17robles@yahoo.com,Rachel,Sifuentes,null,9020 W. Highland ave.,null,Phoenix,AZ,85037,US,6237721651,4805439351,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+848,aquaviva70@gmail.com,cathy,parrino,null,352 whitewater lane,null,Oswego,IL,60543,US,6305546601,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+849,lmiller012001@yahoo.com,Louis,miller,null,2714 Wise St,null,Columbus,GA,31903,US,7063321166,7062210610,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+850,felder_raymond@yahoo.com,raymond,felder,null,525 newtonlake drive apt d-617,null,Oaklyn,NJ,8107,US,8562780726,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+851,Astar1116@aol.com,Galen,Pitner,null,11306 South 1000 East,null,Galveston,IN,46932,US,5746997899,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+852,dr.michal@gmail.com,Michal,Ben-Israel,null,251 rachael pl,null,Pleasanton,CA,94566,US,9254621773,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+853,jtholster@yahoo.com,Jeremy,Polster,null,83083 Marine Ballas Street,null,Washington,DC,20390,US,2027017983,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+854,culeyp_2009@yahoo.com,NICOLE,PATTERSON,null,10315 PINESHADOW DR,null,Charlotte,NC,28262,US,9105272098,9105272098,null,2009,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,10/23/2011 16:05
+855,NOAH-5404491625,NOAH,BURNHAM,null,330 MERRIMAC RD LOT 91,null,Blacksburg,VA,24060,US,5404491625,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+856,jbdeleon12@aol.com,Matt,DeLeonibus,null,750 snodgrass road,null,Crownsville,MD,21032,US,4109232139,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+857,candkking@charter.net,cathy,king,null,518 knollwood dr,null,Stockbridge,GA,30281,US,6786834935,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+858,KarynMLeonard@aol.com,Karyn,Leonard,null,10 Telura,null,Rancho Santa Margarita,CA,92688,US,9499224568,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+859,jnlcunn@cs.com,John,Cunningham,null,5134 CR 1839,null,Odem,TX,78370,US,3618153436,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+860,gray.samantha50@yahoo.com,samantha,gray,null,5674 Grandel,null,Muskegon,MI,49442,US,2315636712,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+861,makeawish072789@yahoo.com,Cheyla,Palmer,null,3712 County Rd. 920,null,Fort Worth,TX,76116,US,8172973704,9799976123,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+862,tiaralahenderson@yahoo.com,Selita,henderson,null,5227 Millbranch Rd,null,Memphis,TN,38116,US,9015036977,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+863,pekedabennett2000@yahoo.com,Pekeda,Ivey,null,1417 N. California,null,Chicago,IL,60622,US,7736551021,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+864,elozar@sbcglobal.net,Elozar,Saks,null,508 Seton cir.,null,Lakewood,NJ,8701,US,7326656073,null,null,1978,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+865,ian_vandermolen@yahoo.com,Ian,van der Molen,null,631 shady lane,null,Orcutt,CA,93455,US,8053457837,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+866,shandala23@aol.com,Shanda,Smith,null,34405 53rd Ave. South,null,Auburn,WA,98001,US,2537351322,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+867,g_unit_998_jones@yahoo.com,Garrett,Jones,null,4008 liberty st,null,Old Hickory,TN,37138,US,6158472342,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+868,palmercarlena@yahoo.com,lena,garcia,null,2751 copeland rd.,null,Harper,OR,97906,US,5412120596,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+869,wenstat2@aol.com,wendy,staton,null,805 west church st,null,Williamston,NC,27892,US,2527928961,2522171634,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+870,jeansamson21@yahoo.com,jean,samson,null,7912 orchard park way,null,Bowie,MD,20715,US,3013525126,2404867735,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+871,wrjcutter@yahoo.com,William,Johnson,null,15 Willow Bend Ct,null,Mansfield,TX,76063,US,2812999308,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+872,gdanders@sbcglobal.net,gerald,anderson,null,2399 sullivan rd,null,Oxford,MI,48371,US,2483188715,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+873,thomaslittle5500@yahoo.com,thomas,little,null,5500 Hilltop Cir,null,Charlotte,NC,28269,US,7043024009,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+874,mrs_rijas56@mns.com,vincent,gutierrez,null,13822 graystone ave,null,Norwalk,CA,90650,US,5622746584,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+875,jvaughn2005@yahoo.com,Jerome,Vaughn,null,518 Hammond Av. apt 21,null,Turrell,AR,72384,US,9013375826,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+876,jacquelyhn.harris@navy.mil,Jacquelyhn,Harris,null,2299 Greenbrier Dr,null,Emmett,ID,83617,US,2082868866,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+877,sherryb4303@yahoo.com,Sharon,Bland,null,150 Hunters Branch Drive,null,Allenhurst,GA,31301,US,9124482820,null,1960,1978,null,TRUE,TRUE,null,TRUE,8/3/2010 10:28,6/9/2011 19:50
+878,lunajungle@roadrunner.com,John,Santa,null,5825 Almond Valley Way,null,Quartz Hill,CA,93536,US,6617225562,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+880,mommydemoss@gmail.com,Darci,DeMoss,null,5608 Kay Starr Trail,null,Davis,OK,73030,US,5803690431,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+882,ROBBINS3097814440,ROBBINS,MOLLY,null,9406 140TH ST W,null,Taylor Ridge,IL,61284,US,3097814440,null,null,1982,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+883,craigmartin333@hotmail.com,craig,gariepy,null,316 e.ballard,null,Colbert,WA,99005,US,5094672614,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+884,norturispuddin08@yahoo.com,Channavia,Carr,null,16529 evergreen rd,null,Detroit,MI,48219,US,3133843912,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+885,wert@verizon.net,aaron,sopko,null,13602 rivercrest dr.,null,Waterford,CA,95386,US,2098749800,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+886,hrlygrl1206@yahoo.com,Cheri,Beck,null,17 Schoon Ave,null,Hawthorne,NJ,7506,US,2012141151,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+887,colton.coty@yahoo.com,Colton,Coty,null,15249 campina lane,null,La Mirada,CA,90638,US,5629025344,5626312950,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+888,lapelos_1990@hotmail.com,rosa,ayon,null,2228 ogden st,null,San Bernardino,CA,92407,US,9098882032,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+889,flores.revalex@att.net,alex,flores,null,4541 nolan st,null,Fort Worth,TX,76119,US,8177705851,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+890,grayc56@mail.bainbridge.edu,Cristi,Gray,null,105 Ryan Cout Lot 2,null,Bainbridge,GA,39817,US,2292468815,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+891,princesseli@hotmail.com,martina,barajas,null,631 21st street,null,Richmond,CA,94801,US,5106728095,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+892,deondranyketha@yahoo.com,Latondra,Cabble,null,3451 Baldwin St.,null,Detroit,MI,48214,US,3342337516,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+893,missmeche_22@yahoo.com,Chyneikah,Robinson,null,804 shilo ave,null,Baker,LA,70714,US,2257753693,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+894,naj9504@yahoo.com,sandra,Damrell,null,734 Lambert RD,null,Berea,KY,40403,US,8599259007,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+895,ygulledge_26@yahoo.com,Yvonne,Gulledge,null,9762 Hagel Circle,null,Lorton,VA,22079,US,7036227996,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+896,matsionaa@yahoo.fr,Amede,MATSIONA,null,207 Wrenn Dr,null,Cary,NC,27511,US,9193490975,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+897,shanianglada@yahoo.com,shani,anglada,null,39415 ardenwood way apt.157,null,Lake Elsinore,CA,92532,US,9512856126,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+898,toomuchxox101@aim.com,Sarah,Somers,null,510 Colony Trail,null,Lanexa,VA,23089,US,8049665503,8049019711,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+899,churro49@gmail.com,arturo,salome,null,po box 921,null,Cathedral City,CA,92235,US,7606449563,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+900,fortune78@yahoo.com,fortunato,Hernandez,null,13917 Lubican st,null,Montclair,CA,91763,US,6269602671,null,1980,1997,0,TRUE,FALSE,null,TRUE,8/3/2010 10:28,9/12/2012 11:21
+901,maddskillzs@aol.com,joshua,hurt,null,98 maple,null,Belleville,MI,48111,US,7347873119,7347871961,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+902,miss_lanae09@yahoo.com,Meisharra,Moore,null,2613 Cannon St.,null,Danville,IL,61832,US,2177999268,2174436237,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+903,rebeccaorellana@rocketmail.com,Rebecca,Castillo,null,3043 starboard way,null,Ceres,CA,95307,US,2093451067,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+904,reneepoke@hotmail.com,Zanita,Poke,null,509 N. Vermilion St.,null,Danville,IL,61832,US,2177992813,null,null,1991,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+905,paulwilfriedbiumla@yahoo.fr,paul,Biumla,null,3401 W purdue Ave,null,Phoenix,AZ,85051,US,6023266213,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+906,tanniemay01@aol.com,Tanya,Anderson,null,6209 S. Indiana Ave,null,Chicago,IL,60637,US,7089555930,null,null,1978,null,TRUE,FALSE,null,null,8/3/2010 10:28,9/14/2011 10:30
+907,dariellewilliams1@yahoo.com,darielle,williams,null,11378 cherry hill rd apt 204,null,Beltsville,MD,20705,US,3019372927,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+908,erinmichelesheely@hotmail.com,Erin,Sheely,null,90 Waverley Drive Apartment L L 204,null,Frederick,MD,21702,US,7173009477,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+909,MATTRONANIL1@fixmyemail.com,MATT,RONAN,null,3619 N MAGNOLIA ST,null,Chicago,IL,60613,US,7089516079,null,null,1978,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+910,mroychoudhuri@hotmail.com,minati,roychoudhuri,null,null,null,Storrs Mansfield,CT,6268,US,8604871857,null,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+911,shortym_09@yahoo.com,Miranda,Walker,null,2300 Rebsamen Pk Rd,null,Little Rock,AR,72202,US,5014139392,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+912,greenelb07@yahoo.com,Laura,Greene,null,25 Stillman Ave,null,Pawcatuck,CT,6379,US,8609123671,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+913,alexis_mcd@yahoo.com,Alexis,McDonald,null,8132 Marina Pacifica Dr. N,null,Long Beach,CA,90803,US,5622355639,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+914,theresaking2002@yahoo.com,Onica,Yearwood,null,717 Mesquite Rd,null,Severn,MD,21144,US,4435270982,null,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+915,araceli.garcia30@yahoo.com,Araceli,Garcia,null,1329 E 23rd Ave,null,Denver,CO,80205,US,7204242958,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+916,loisrc369@yahoo.com,Lois,Onsongo,null,1226 4th Ave Sw Apt 15,null,Rochester,MN,55902,US,5075297733,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+917,diaz1119@gmail.com,Jeannette,Diaz,null,2306 FM 1294,null,Lubbock,TX,null,null,9192215903,null,null,1960,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+918,bimartbabe@comcast.net,Hollie,Temple,null,2215 Grant Street,null,Eugene,OR,97405,US,5418701467,null,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+919,DEBORAH8593966901,DEBORAH,JOHNSON,null,305 RYNE CT,null,Versailles,KY,40383,US,8593966901,8598795023,null,1989,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+920,andresf1112@hotmail.com,Andres F,Chalarca,null,9 Cutrone Rd,null,Norwalk,CT,6850,US,2032476966,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+921,lety1_m@hotmail.com,delmis,murillo,null,null,null,Arlington,VA,22204,US,5712450345,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+922,boricuarat@yahoo.com,David,Torres,null,51 woodland st,null,Lawrence,MA,1840,US,9782657360,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+923,amylynnurbina@yahoo.com,Amy,Urbina,null,4 Winning Colors Ct,null,Elgin,SC,29045,US,8645294569,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+924,snooks26@shawneelink.net,Julie,Smith,null,Rt 2 Box 233 B,null,Sumner,IL,62466,US,6189472464,null,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+925,moonlightboo2000@yahoo.com,Bobbi,West,null,P.O Box 84,null,Black Earth,WI,53515,US,2627164742,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+926,dgaines420@yahoo.com,Damon,Gaines,null,10160 KING ARTHUR DRIVE,null,Indianapolis,IN,46229,US,3175130262,3176222736,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+927,sabbi26@yahoo.com,Sabrina,Gonzalez,null,1303 Yeadon Rd,null,Chesapeake,VA,23324,US,7575027749,null,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+928,toohot4ulleelee@yahoo.com,willie,walker,null,2101 bluecreek rd,null,Jacksonville,NC,28540,US,9103461007,9104519602,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+930,Johndeere92@aol.com,Jessica,Brown,null,PO Box 266,null,Cataula,GA,31804,US,7063239002,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+931,mfmccf@aol.com,carl,fiester,null,755 old barnstable rd,null,Mashpee,MA,2649,US,5084772535,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+932,gladiss_5591@live.com,Gladiola,Esparza,null,609 Omaha Ave,null,Worthington,MN,56187,US,5073766995,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+933,ash829088@yahoo.com,ashley,sauerwein,null,216 mylaun dr,null,O Fallon,IL,62269,US,6186245719,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+934,erin7003@yahoo.com,Erin,kotlowski,null,3156  Riverside Drt.,null,Beloit,WI,53511,US,6089217003,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+935,stevevhfd@yahoo.com,steven,perez,null,15221 west bola dr.,null,Surprise,AZ,85374,US,6512957696,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+936,rachelmadison@ymail.com,Rachel,Madison,null,872 Russet Dr.,null,Sunnyvale,CA,94087,US,9189467618,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+937,www.silversnake_22@yahoo.com,steven,oliver,null,po box 1247,null,Saint Michaels,AZ,86511,US,9288714535,5054096151,null,2001,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+938,ALICIA_QUALES1102@YAHOO.COM,ALICIA,QUALES,null,442 OLD AIRPORT DR,null,Bristol,VA,24201,US,4233604528,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+939,HELENA3022705109,HELENA,BAILEY,null,33227 SAMUEL HILL RD,null,Laurel,DE,19956,US,3022705109,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+940,johnpatricksgf@yahoo.com,alissa,nuckolls,null,518 1/2 N.24th St.,null,Fort Smith,AR,72901,US,4794617985,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+941,pamelaterry84@yahoo.com,pam,terry,null,465 w. clemmens ln,null,Fallbrook,CA,92028,US,2164566229,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+942,hannahhardister156@aol.com,Hannah,Hardister,null,104 Prestwick Court,null,Yorktown,VA,23693,US,7573691556,7578679158,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+943,shantellrandalljja@yahoo.com,Shantell,Randall,null,11022 Long Gate Dr,null,Houston,TX,77047,US,7137332334,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+944,caseysquirrel90@aol.com,Casey,Bargeron,null,1246 Roy Rd,null,Augusta,GA,30909,US,7068698959,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+945,hell_cat1987@hotmail.com,celinda,aylas,null,499 tacheco road apt 156,null,Bakersfield,CA,93307,US,6618340636,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+946,juarudison598@gmail.com,Jua,Rudison,null,3315 Roy Key Ave Unit 3,null,Ames,IA,50010,US,5152327711,null,null,0,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+947,sumrallcutie87@gmail.com,Amber,Sumrall,null,18121 Cloverleaf Drive North,null,South Bend,IN,46637,US,5742739420,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+948,eski55555@HOTMAIL.COM,Andrew,Sadowski,null,33 euclid ave,null,Riverside,RI,2915,US,4014335555,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+949,stephanieskeen@hotmail.com,Stephanies,Skeen,null,2365 Old Morganfield Rd,null,Nebo,KY,42441,US,2702498380,null,null,1992,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+950,monicaw123@yahoo.com,monica,wimberly,null,p.o. box 514,null,Inkster,MI,48141,US,3132789562,null,null,1972,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+951,candace.neff@med.navy.mil,candace,neff,null,926 franklin ave,null,Lemoore,CA,93246,US,5599973780,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+953,kimbolee_7@hotmail.com,Kimberly,Guthrie,null,925 S. First Street,null,San Francisco,CA,94101,null,5598467884,5592406161,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+954,peanutpolice18@yahoo.com,Christine,Mateer,null,5 West St.,null,Whitinsville,MA,1588,US,7742530193,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+955,jkbosheers@gmail.com,Justin,Bosheers,null,1602 Liberty Ave,null,Lawrenceburg,TN,38464,US,9317629800,null,null,1981,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+956,footballlover369@yahoo.com,jessica,salazar,null,9905 sun mountain trl sw,null,Albuquerque,NM,87121,US,5053526280,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+957,Nickcarmona@comcast.net,Nicolas,Carmona,null,4667 La VIsta Dr.,null,Oakley,CA,94561,US,9256799330,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+958,mawade@bccc.edu,MICHELE,WADE,null,1607 N. GAY STREET,null,Baltimore,MD,21213,US,4437395219,null,null,1984,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+959,theallenroom@hotmail.com,sherry,allen,null,397 mtn. view circle,null,Canton,GA,30115,US,7703454790,6783864547,null,1979,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+960,amandabaitz@gmail.com,Amanda,Baitz,null,128 Osborne Ave,null,Catonsville,MD,21228,US,4435353989,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+961,Army_martinez18@yahoo.com,paola,martinez,null,9033 w toronto way,null,Tolleson,AZ,85353,US,6233026567,6024203212,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+962,cherrybeiy_01@yahoo.com,Diamond,Evans,null,5918 Coplin,null,Detroit,MI,48213,US,3134124371,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+963,loiamma@gmail.com,Loiamma,Rinearson,null,5055 Bakman Ave.,null,North Hollywood,CA,91601,US,8186607909,null,null,1997,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+964,erbflute09@aol.com,Elizabeth,Barbarotto,null,378 State Route 483,null,Hickory,KY,42051,US,2706583351,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+965,jbsicad@aol.com,Joy,Sicad,null,675 E Azure Ave,null,North Las Vegas,NV,89081,US,6719690773,7028389629,null,1983,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+966,ANKURBAJAJ2010@YAHOO.CO.IN,ANKUR,BAJAJ,null,1848 W VALENCIA DR,null,Fullerton,CA,92833,US,7148603030,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+967,kt_lob@yahoo.com,Katherine,LoBianco,null,22 Little Creek Lane,null,Fredericksburg,VA,22405,US,5406459410,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+968,p.lucas85@yahoo.com,Pamela,Lucas,null,4404 Kranet Way,null,Louisville,KY,40218,US,5027427872,null,null,2003,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+969,Twanda.Black@coxradio.com,Twanda,Dudley,null,3410 Ethan Allen Dr.,null,College Park,GA,30349,US,4048977557,7068847509,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+970,vsanderson1965@WOWWAY.net,Tommie,Haggerty,null,7645 S. East end,null,Chicago,IL,60649,US,7083153100,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+971,cabjustin@aol.com,justin,cabrera,null,3453 Aberdeen street,null,El Paso,TX,79925,US,9157992454,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+972,mrs-myatt2008@yahoo.com,onalea,norwood,null,70538 28th ave,null,Covert,MI,49043,US,2692701302,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+973,andyalvarez454@yahoo.com,andy,alvarez,null,3204 clymer st,null,Dallas,TX,75212,US,2149090202,null,null,1900,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+975,mshareef98@yahoo.com,malik,shareef,null,4875 micheal jay,null,Snellville,GA,30039,US,7706665275,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+976,TANOSHABURNS@YAHOO.COM,TANOSHA,BURNS,null,3319 VEGA ST,null,Houston,TX,77088,US,2819994330,8322428795,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+977,aashemawatkins@yahoo.com,A'ashema,Watkins,null,750A-Madera Rd.,null,Batesburg,SC,29006,US,8034660396,8036876676,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+978,esmeraldaramirez996@gmail.com,esmeralda,ramirez,null,6121 creston ave.,null,Des Moines,IA,50321,US,5152513891,null,null,2000,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+980,janssenpeck@gmail.com,Carrie,Peck,null,900 Westgate Dr.,null,Shreveport,LA,71101,US,3185053715,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+981,lynntaylor34@yahoo.com,Deborah,Taylor,null,302 Main St,null,Lucama,NC,27851,US,2522391191,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+982,tjuanice@yahoo.com,Taprina,PARRISH,null,3210 62nd Ave,null,Oakland,CA,94605,US,4157560558,5107290316,null,1996,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+983,cheesepuffchick@yahoo.com,Amanda,Estes,null,200 Country Club Ln Apt. 20-C,null,Anderson,SC,29625,US,8646229484,null,1990,2008,null,TRUE,FALSE,null,TRUE,8/3/2010 10:28,5/16/2011 1:38
+984,robert2staley@gmail.com,robert,staley,null,11 Cushing,null,Irvine,CA,92618,US,9494533930,null,null,1999,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+985,tomlow366@aol.com,tommy,lowder,null,426 LANTZ AVE.,null,Salisbury,NC,28144,US,7046034644,null,null,1994,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+986,jalisansanders@yahoo.com,Jalisa,Sands,null,1761 West Forrest Ave,null,Atlanta,GA,30344,US,4047236855,null,null,2008,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+987,MIKETHOMAS354@YAHOO.COM,MICHAEL,THOMAS,null,19702 EDUCATION LANE,null,Huntington Beach,CA,92646,US,7149684841,9492129382,null,1982,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+988,stephanie@ruszkowski.org,Stephanie,Ruszkowski,null,217 Lady Lane,null,Michigan City,IN,46360,US,2193694609,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+989,xdina16x@mocospace.com,gardenia,neal,null,1900 apt d hudgins dr,null,Greensboro,NC,27406,US,3362757326,null,null,2011,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+990,bustillosmarissa@yahoo.com,marissa,bustillos,null,5755 n 59th ave,null,Glendale,AZ,85301,US,6234185040,6234187260,null,2010,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+991,LLUVIA8322587001,LLUVIA,LEGARDA,null,11907 FLATTOP LN,null,Tomball,TX,77377,US,8322587001,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+992,meg1ryan@sbcglobal.net,Natalie,Fix,null,223 St Mary St,null,Shelbyville,IN,46176,US,3173988730,null,null,1980,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+993,meriamkent62@yahoo.com,imari,kent,null,3682 Newgate Lane,null,Indianapolis,IN,46235,US,3178752145,3178909311,null,1995,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+994,HMcMahon86@yahoo.com,Heather,McMahon,null,41 Clayton Rd,null,Holyoke,MA,1040,US,4132090267,null,null,2004,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+995,jessygurl6791@aol.com,jessica,wegner,null,15346 crossing gate drive,null,Cornelius,NC,28031,US,6518084208,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+996,JAMIEANDABIGAIL@GMAIL.COM,Jamie,Parks,null,320 jamie rd,null,Santa Barbara,CA,93101,US,5012536117,null,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+997,wsharsburg@aol.com,Perry,Height,null,5074 Wildlife Dr,null,Rocky Mount,NC,27803,US,2529770485,null,null,1987,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+998,jen42028@hotmail.com,Jenna,Hill,null,2522 hwy 100 s,null,St Louis Park,MN,55416,US,6128456506,6128458506,null,2007,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+999,jaimefran41@gmail.com,Amelia,Northcliff,null,15900 Arbury St,null,Apple Valley,CA,92308,US,7607132528,null,null,1988,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1000,75754304331@needanemail.com,Brent,Swann,null,2005 Martin Ave,null,Chesapeake,VA,23324,US,7575430433,null,null,2009,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1001,danthemankj@msn.com,Danny,Souris,null,372 Millport Dr.,null,Valparaiso,IN,46385,US,2193642509,null,null,1976,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1002,MARGARET6066221634,MARGARET,ALDERMAN,null,157HAWNGAPRD BARBOURVILLE,null,Baughman,KY,40906,US,6066221634,null,null,1979,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1003,rockyrobison@hotmail.com,Rocky,Robison,null,735 E Pearl St,null,Kasota,MN,56050,US,7632457743,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1004,ddixon4434@aol.com,Dawn,Dixon,null,11502 Wollaston Cir.,null,Lanham,MD,20706,US,3012590544,3016573873,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1005,kelvinowens2000@yahoo.com,kelvin,owens,null,3911 steam mill rd,null,Columbus,GA,31907,US,2566269134,null,null,1993,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1006,trista0871@natisp.com,Trista,st michel,null,8440 Sleepy Way,null,El Cajon,CA,92021,US,6194437364,null,null,1990,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1007,Mastorino@comcast.net,Morgan,Last,null,36 W Railroad Ave,null,Eastampton,NJ,8060,US,6092679237,null,null,1998,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1008,bleemoore86@yahoo.com,brandon,moore,null,6129ave e,null,Dickinson,ND,58601,US,7012259665,null,null,2006,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1009,blair6015@hotmail.com,krystal,Blair,null,9129 Blue Pine Dr.,null,Indianapolis,IN,46231,US,3173708914,null,null,2005,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1010,majahawkins @gmail.com,jason,hawkins,null,7808 caliber crossing drive,null,Charlotte,NC,28226,US,8187492007,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1011,n456promise@yahoo.com,Desiree,Ayala,null,11Forbes street,null,Jamaica Plain,MA,2130,US,8572227739,null,null,2011,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08
+1012,tamaradiahann@yahoo.com,Tamara,Bradley,null,180 E Jackson St NE Apt. 6413,null,Atlanta,GA,30312,US,8133004757,null,null,2002,null,TRUE,FALSE,null,null,8/3/2010 10:28,11/10/2010 19:08

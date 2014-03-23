@@ -1,0 +1,14 @@
+[
+	{
+		"name":"email",
+		"type":"string"	
+	},
+	{
+		"name":"likes",
+		"type":"string"	
+	},
+	{
+		"name":"interests",
+		"type":"string"	
+	}	
+]

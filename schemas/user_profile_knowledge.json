@@ -1,0 +1,18 @@
+[
+	{
+		"name":"email",
+		"type":"string"	
+	},
+	{
+		"name":"education",
+		"type":"string"	
+	},
+	{
+		"name":"experiences",
+		"type":"string"	
+	},
+	{
+		"name":"skills_and_expertise",
+		"type":"string"	
+	}	
+]

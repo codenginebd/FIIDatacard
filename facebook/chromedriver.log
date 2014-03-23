@@ -1,0 +1,211 @@
+[0.000][INFO]:      ChromeDriver 23.0.1240.0 C:\Python27\chromedriver.exe
+[0.500][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chromeOptions": {
+      "args": [  ],
+      "binary": "",
+      "extensions": [  ]
+   },
+   "javascriptEnabled": true,
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.501][INFO]:      Launching chrome: "C:\Users\Sohel\AppData\Local\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors about:blank
+[1.405][INFO]:      Connected to Chrome successfully. Version: 26.0.1410.64
+[1.412][FINE]:      Command received (/session/1ec8b1182704aa84e0ae187de7dfba59)
+[1.412][FINE]:      Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "23.0.1240.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "26.0.1410.64",
+      "webStorageEnabled": true
+   }
+}
+
+[1.435][FINE]:      Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/url) with params {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "url": "https://www.facebook.com"
+}
+
+[1.435][FINER]:     Waiting for all views to stop loading...
+[1.436][FINER]:     Done waiting for all views to stop loading
+[10.249][FINER]:    Waiting for all views to stop loading...
+[10.250][FINER]:    Done waiting for all views to stop loading
+[10.250][FINE]:     Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/url) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[10.254][FINE]:     Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/element) with params {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "using": "id",
+   "value": "email"
+}
+
+[10.254][FINER]:    Waiting for all views to stop loading...
+[10.254][FINER]:    Done waiting for all views to stop loading
+[10.339][FINER]:    Waiting for all views to stop loading...
+[10.339][FINER]:    Done waiting for all views to stop loading
+[10.339][FINE]:     Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/element) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": {
+      "ELEMENT": ":wdc:1366974923211"
+   }
+}
+
+[10.343][FINE]:     Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/element/:wdc:1366974923211/value) with params {
+   "id": ":wdc:1366974923211",
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "value": [ "s", "o", "h", "e", "l", "_", "b", "u", "e", "t", "0", "6", "5", "@", "y", "a", "h", "o", "o", ".", "c", "o", "m" ]
+}
+
+[10.343][FINER]:    Waiting for all views to stop loading...
+[10.343][FINER]:    Done waiting for all views to stop loading
+[10.543][FINER]:    Waiting for all views to stop loading...
+[10.543][FINER]:    Done waiting for all views to stop loading
+[10.543][FINE]:     Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/element/:wdc:1366974923211/value) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[10.545][FINE]:     Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/element) with params {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "using": "id",
+   "value": "pass"
+}
+
+[10.545][FINER]:    Waiting for all views to stop loading...
+[10.546][FINER]:    Done waiting for all views to stop loading
+[10.559][FINER]:    Waiting for all views to stop loading...
+[10.559][FINER]:    Done waiting for all views to stop loading
+[10.559][FINE]:     Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/element) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": {
+      "ELEMENT": ":wdc:1366974923212"
+   }
+}
+
+[10.562][FINE]:     Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/element/:wdc:1366974923212/value) with params {
+   "id": ":wdc:1366974923212",
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "value": [ "l", "a", "p", "s", "s", "o", "0", "6", "5", "C", "o", "m", "m", "l", "i", "n", "k", "C", "o", "m", "m", "l", "i", "n", "k" ]
+}
+
+[10.562][FINER]:    Waiting for all views to stop loading...
+[10.562][FINER]:    Done waiting for all views to stop loading
+[10.682][FINER]:    Waiting for all views to stop loading...
+[10.682][FINER]:    Done waiting for all views to stop loading
+[10.682][FINE]:     Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/element/:wdc:1366974923212/value) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[10.685][FINE]:     Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/element) with params {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "using": "id",
+   "value": "loginbutton"
+}
+
+[10.685][FINER]:    Waiting for all views to stop loading...
+[10.685][FINER]:    Done waiting for all views to stop loading
+[10.698][FINER]:    Waiting for all views to stop loading...
+[10.698][FINER]:    Done waiting for all views to stop loading
+[10.698][FINE]:     Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/element) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": {
+      "ELEMENT": ":wdc:1366974923213"
+   }
+}
+
+[10.700][FINE]:     Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/element/:wdc:1366974923213/click) with params {
+   "id": ":wdc:1366974923213",
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59"
+}
+
+[10.700][FINER]:    Waiting for all views to stop loading...
+[10.701][FINER]:    Done waiting for all views to stop loading
+[10.734][WARNING]:  Element's descendant would receive the click. Consider clicking the descendant instead. Descendant: <input value="Log In" tabindex="4" type="submit" id="u_0_6">
+[10.744][FINER]:    Waiting for all views to stop loading...
+[37.543][FINER]:    Done waiting for all views to stop loading
+[37.543][FINE]:     Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/element/:wdc:1366974923213/click) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[37.547][FINE]:     Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/url) with params {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "url": "https://www.facebook.com/dialog/oauth?client_id=519230051433986&redirect_uri=https%3A%2F%2Fwww.fa..."
+}
+
+[37.547][FINER]:    Waiting for all views to stop loading...
+[37.547][FINER]:    Done waiting for all views to stop loading
+[42.888][FINER]:    Waiting for all views to stop loading...
+[42.890][FINER]:    Done waiting for all views to stop loading
+[42.890][FINE]:     Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/url) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[42.893][FINE]:     Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/element) with params {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "using": "name",
+   "value": "__CONFIRM__"
+}
+
+[42.893][FINER]:    Waiting for all views to stop loading...
+[42.894][FINER]:    Done waiting for all views to stop loading
+[42.956][FINER]:    Waiting for all views to stop loading...
+[46.530][FINER]:    Done waiting for all views to stop loading
+[46.531][WARNING]:  Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/element) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 7,
+   "value": {
+      "message": "The element could not be found"
+   }
+}
+
+[46.535][FINE]:     Command received (/session/1ec8b1182704aa84e0ae187de7dfba59/url)
+[46.535][FINER]:    Waiting for all views to stop loading...
+[46.535][FINER]:    Done waiting for all views to stop loading
+[46.658][FINER]:    Waiting for all views to stop loading...
+[46.658][FINER]:    Done waiting for all views to stop loading
+[46.658][FINE]:     Command finished (/session/1ec8b1182704aa84e0ae187de7dfba59/url) with response {
+   "sessionId": "1ec8b1182704aa84e0ae187de7dfba59",
+   "status": 0,
+   "value": "https://www.facebook.com/QualityLeads?code=AQA8H6Kv4sNKsFf0J-OhY7Fue8is589JElL0L0GUfSjXwlJvshRZ8N..."
+}
+

@@ -1,0 +1,14 @@
+[
+	{
+		"name":"email",
+		"type":"string"	
+	},
+	{
+		"name":"certifications",
+		"type":"string"	
+	},
+	{
+		"name":"honours_and_awards",
+		"type":"string"	
+	}	
+]
